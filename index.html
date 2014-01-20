@@ -1,3 +1,6 @@
+---
+---
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -46,6 +49,18 @@ div.header-container {
   padding-left: 20px;
 }
 
+div.content-container {
+  position: absolute;
+  left: 9%;
+  width: 82%;
+  top: 40%;
+  text-align: left;
+  height: 256px;
+  background: rgba(22, 22, 54, 0.8);
+  padding-top: 40px;
+  padding-left: 20px;
+}
+
 a {
   color: #ddd;
   text-decoration: none;
@@ -55,6 +70,13 @@ a.outside {
   margin-right:20px;
 }
 
+.ico:hover {
+  -webkit-filter: saturate(1);
+  -webkit-filter: grayscale(0%);
+}
+
+.grayscale {-webkit-filter: grayscale(100%);}
+
 </style>
 </head>
 <body>
@@ -63,9 +85,9 @@ a.outside {
   <div class="header-container">
     <div class="outline-text title" style="float: left">Moishe Lettvin</div>
     <div class="outline-text menu" style="float: right">
-      <a class="outside" href="http://stackoverflow.com/users/23786/moishe"><img src="icons/so-icon-grey.png" style="width: 32px"></a>
-      <a class="outside" href="https://github.com/moishe"><img src="icons/github-icon-grey.png" style="width: 32px"></a>
-      <a class="outside" href="https://twitter.com/moishel"><img src="icons/twitter-icon-grey.png" style="width: 32px"></a>
+      <a class="outside" href="http://stackoverflow.com/users/23786/moishe"><img src="icons/so-icon-blue.png" class="ico grayscale" style="width: 32px"></a>
+      <a class="outside" href="https://github.com/moishe"><img src="icons/github-icon-blue.png" class="ico grayscale" style="width: 32px"></a>
+      <a class="outside" href="https://twitter.com/moishel"><img src="icons/twitter-icon-blue.png" class="ico grayscale" style="width: 32px"></a>
     </div>
   </div>
 </div>
