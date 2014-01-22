@@ -1,6 +1,6 @@
 ---
 layout: post
-title: msfts-valhalla
+title: msft's valhalla
 
 ---
 I've been at RedWest, one of Microsoft's satellite campi, for a week now. It's different over here.  

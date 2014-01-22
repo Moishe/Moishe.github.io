@@ -1,6 +1,6 @@
 ---
 layout: post
-title: less-programming-more-skill
+title: Less programming, more skill?
 
 ---
 I just picked up a copy of [Programmers at Work](http://www.amazon.com/gp/product/1556152116?ie=UTF8&tag=mob-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1556152116)![](http://www.assoc-amazon.com/e/ir?t=mob-20&l=as2&o=1&a=1556152116) \(disclosure: that's a paid Amazon link\) and I've been looking forward to reading it. I've only read the Charles Simonyi chapter; I got distracted by other books and other things, but it's sitting there on my nightstand waiting.  

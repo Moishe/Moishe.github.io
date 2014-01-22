@@ -1,6 +1,6 @@
 ---
 layout: post
-title: one-other-thing
+title: One other thing
 
 ---
 Somebody asked, in reference to my earlier [post about interviewing](http://www.drizzle.com/~lettvin/2005/12/programming-interviews-sort-of-exposed.html), if I could recommend any good books on the subject.  

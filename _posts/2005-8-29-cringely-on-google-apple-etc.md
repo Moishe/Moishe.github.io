@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cringely-on-google-apple-etc
+title: Cringely on Google, Apple etc.
 
 ---
 Robert Cringely has an interesting article talking in which he says,  

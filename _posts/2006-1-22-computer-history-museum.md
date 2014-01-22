@@ -1,6 +1,6 @@
 ---
 layout: post
-title: computer-history-museum
+title: Computer History Museum
 
 ---
 Yesterday morning I had a few hours to kill before going to the airport. First, I went to Google to play on a Linux box for a while \(amazing what a pleasant campus will do for employee productivity\) and then I headed to the [Computer History Museum](http://www.computerhistory.org/).  

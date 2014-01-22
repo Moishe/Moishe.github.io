@@ -1,6 +1,6 @@
 ---
 layout: post
-title: brief-followup-to-yesterdays-post
+title: Brief followup to yesterday's post
 
 ---
 Whew. I, um, seem to have struck a nerve.  

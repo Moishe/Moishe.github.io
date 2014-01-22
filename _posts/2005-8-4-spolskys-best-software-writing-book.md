@@ -1,6 +1,6 @@
 ---
 layout: post
-title: spolskys-best-software-writing-book
+title: Spolsky's Best Software Writing book
 
 ---
 I just got [The Best Software Writing I](http://www.adambosworth.net/archives/000031.html) edited by [Joel Spolsky](http://www.joelonsoftware.com/index.html). Mostly I've just skimmed through it so far, but I did read [Adam Bosworth](http://www.adambosworth.net/)'s [ISCOC04 Talk](http://www.adambosworth.net/archives/000031.html).  

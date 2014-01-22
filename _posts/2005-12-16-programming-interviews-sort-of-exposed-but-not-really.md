@@ -1,6 +1,6 @@
 ---
 layout: post
-title: programming-interviews-sort-of-exposed-but-not-really
+title: Programming interviews sort of exposed but not really
 
 ---
 Today while my car was getting an oil change I wandered into Barnes & Noble and browsed through the computer section. I almost bought a book called "Death March" but decided I had other options...

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: george-dyson-on-skynet-er-google
+title: George Dyson on Skynet... er, Google
 
 ---
 >   

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: apple-design-process
+title: Apple design process
 
 ---
 Arno has [an article about the Shutdown feature](http://arno.org/blog/2006/11/design-of-mac-os-x-shutdown-feature.html) and how it was implemented at Apple.  

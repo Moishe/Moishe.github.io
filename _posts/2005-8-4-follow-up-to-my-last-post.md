@@ -1,6 +1,6 @@
 ---
 layout: post
-title: follow-up-to-my-last-post
+title: Follow-up to my last post
 
 ---
 OK, here's the thing: the magic of software is how fast you can write it, publish it and change it.  

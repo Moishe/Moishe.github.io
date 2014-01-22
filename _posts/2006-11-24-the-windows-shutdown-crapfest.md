@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the-windows-shutdown-crapfest
+title: The Windows Shutdown crapfest
 
 ---
 I worked at Microsoft for about 7 years total, from 1994 to 1998, and from 2002 to 2006.  

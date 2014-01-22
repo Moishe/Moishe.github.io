@@ -1,6 +1,6 @@
 ---
 layout: post
-title: software-and-craftsmanship
+title: Software and craftsmanship
 
 ---
 A few months ago I bought a Laguiole knife for myself. It took about 3 months to arrive, and when I unwrapped it from its packaging it smelled like wood and smoke and oil. It's not perfect -- the engraving on the back of the blade isn't exactly symmetric, and the wood of the handle has a tiny gap against the butt of the blade. Functionally it's like many other knives, and I could use something which cost about 1/10th what this knife did to the same end. But it's handmade and it's beautiful. The blade is forged and the handle carved and the whole thing assembled in the same town, and when you use it you can think about the fact that the blade was made by one guy, and he's probably been doing it his whole life, and he spends enough time on just that blade to sort of get to know it. There is a particular pattern in the handle, made of brass rivets, which is impossible \(or at least prohibitively hard\) to duplicate by machine, and the guy who carved the handle placed those rivets; again, he had time to think about this particular handle as he was doing it.  

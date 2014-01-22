@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dreaming-in-code-take-2
+title: Dreaming in Code, take 2
 
 ---
 True story: when I was 18 years old, a series of unhappy accidents left me the only programmer on a massive software project. This project was an upgrade to the cash cow for the company I worked for; if it didn't ship, the company stood to lose lots of money and indeed might've gone out of business. I worked 80-100 hour weeks for months to try to make the thing work right, and every time I fixed a bug it felt like I introduced 2 others.  

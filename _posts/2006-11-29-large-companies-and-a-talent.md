@@ -1,6 +1,6 @@
 ---
 layout: post
-title: large-companies-and-a-talent
+title: Large companies and 'A' talent
 
 ---
 Dare Obasanjo has a [post](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=21e5734b-cd88-48e4-b928-59ef8a9bfdb5) about the culture at big companies vs. small companies, and links to [Auren Hoffman's post](http://summation.typepad.com/summation/2006/11/why_big_high_te.html) which claims that it's hard for large companies to attract 'A' talent.  

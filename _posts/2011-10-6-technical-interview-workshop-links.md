@@ -1,6 +1,6 @@
 ---
 layout: post
-title: technical-interview-workshop-links
+title: Technical Interview Workshop Links
 
 ---
 I'm giving a talk/workshop about how to prepare for the sorts of interviews we conduct here at Google for engineers. Here's a list of links to outside resources that may be valuable if you're thinking of interviewing at Google, Microsoft, Amazon or other tech companies that ask coding questions.   
