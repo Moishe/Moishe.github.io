@@ -1,0 +1,39 @@
+---
+---
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link href='http://fonts.googleapis.com/css?family=Menlo|Rosarivo|Gudea|Buenard:400,700' rel='stylesheet' type='text/css'>
+    <style>
+      body {
+        font: 16px/1.5em "Gudea", Helvetica, sans-serif;
+      }
+      .content {
+        width: 640px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .title {
+        font-weight: 700;
+      }
+      .date {
+        font-size: 14px;
+        font-style: italic;
+      }
+      a {
+        text-decoration: none;
+      }
+      a:hover {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="content">
+      <div class="title">{{ page.title }}</div>
+      <div class="date"><a href="{{ page.url }}">{{ page.date | date_to_string}}</a></div>
+      <div>{{ content }}</div>
+    <div>
+  </body>
+</html>
