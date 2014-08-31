@@ -17,7 +17,7 @@ html, body {
 
 body {
   color: #333;
-  background-color: #fafbfc;
+  background-color: white;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
   font-size: 0.85em;
@@ -136,7 +136,7 @@ a:hover {
   color: #494949;
   margin-bottom: 0.35em;
   font-size: 3.5em;
-  text-transform: uppercase;
+  line-height: normal;
 }
 
 .post {
@@ -240,7 +240,6 @@ a:hover {
 .post-title {
   font-weight: 600;
   font-size: 1.4em;
-  text-transform: uppercase;
 }
 
 .post-date {
