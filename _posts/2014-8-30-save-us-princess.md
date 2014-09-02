@@ -30,6 +30,6 @@ As I wrote this, though, I realized I'd never drawn the connection between Ameli
 
 I'm very lucky to be surrounded by people more perceptive than me, and to work in a place where thinking about those things is encouraged, where fixing the text on a button is as easy as it should be. I'm stoked there's a princess there to save me when my code needs it, and to have co-workers who are more observant than me and who see things and fix things I don't see. Changing the text on this button is obviously a tiny little thing and it ain't gonna fix tech's diversity problems by itself and it's not gonna make it less likely that my daughter's love of science gets diminished as she gets older and sees the bullshit gender biases that so many people have, but it's *something* and I hope if we make it easy and right and encouraged to do little somethings one at a time, a whole lot of tiny little somethings will add up.
 
-*Huge thanks to my Etsy co-workers, @zmaggs in particular, for help editing this article*
+*Huge thanks to my Etsy co-workers, Maggie Zhou in particular, for help editing this article.*
 
 *Edit 2014-9-2: verified that Arthur Chu's article was a strong prompt for initial email about this problem*
