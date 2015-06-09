@@ -8,8 +8,8 @@ Currently Boulder is debating "right-sizing" some roads to add bigger bike lanes
 
 --------
 
->I wanted to write with support for the experiments to right-size
->streets here in Boulder, to allow safer bicycle and car traffic.
+>I'm writing to support the experiments to right-size streets
+>here in Boulder, to allow safer bicycle and car traffic.
 >
 >I've only lived in Boulder for 4 years. The primary reason my wife,
 >daughter and I moved here was Boulder's reputation as a place where we
