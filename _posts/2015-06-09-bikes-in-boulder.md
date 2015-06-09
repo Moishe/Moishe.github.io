@@ -6,6 +6,8 @@ title: Bikes in Boulder
 
 Currently Boulder is debating "right-sizing" some roads to add bigger bike lanes, a center turn lane, and removing a travel lane in each direction. Needless to say this is contentious; below is the letter I wrote to City Council about it:
 
+--------
+
 >I wanted to write with support for the experiments to right-size
 >streets here in Boulder, to allow safer bicycle and car traffic.
 >
