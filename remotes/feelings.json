@@ -1,0 +1,595 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "loneliness",
+                    "size": 32
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "isolation",
+                    "size": 26
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "timezones",
+                    "size": 15
+                }
+            ],
+            "name": "logistics"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "discipline",
+                    "size": 8
+                }
+            ],
+            "name": "productivity"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "focus",
+                    "size": 7
+                }
+            ],
+            "name": "productivity"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "disconnecting",
+                    "size": 7
+                }
+            ],
+            "name": "productivity"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "pants",
+                    "size": 7
+                }
+            ],
+            "name": "pants"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "collaboration",
+                    "size": 6
+                }
+            ],
+            "name": "communication"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "lonely",
+                    "size": 5
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "distraction",
+                    "size": 5
+                }
+            ],
+            "name": "productivity"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "isolated",
+                    "size": 5
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "nothing",
+                    "size": 5
+                }
+            ],
+            "name": "nothing"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "socializing",
+                    "size": 5
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "exclusion",
+                    "size": 4
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "lunch",
+                    "size": 4
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "sleep",
+                    "size": 4
+                }
+            ],
+            "name": "balance"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "alone",
+                    "size": 4
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "kids",
+                    "size": 4
+                }
+            ],
+            "name": "logistics"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "context",
+                    "size": 4
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "inclusion",
+                    "size": 4
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "motivation",
+                    "size": 4
+                }
+            ],
+            "name": "productivity"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "bonding",
+                    "size": 4
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "meetings",
+                    "size": 3
+                }
+            ],
+            "name": "logistics"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "people",
+                    "size": 3
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "culture",
+                    "size": 3
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "attention",
+                    "size": 3
+                }
+            ],
+            "name": "productivity"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "separation",
+                    "size": 3
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "connection",
+                    "size": 3
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "socialization",
+                    "size": 3
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "visibility",
+                    "size": 3
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "stopping",
+                    "size": 3
+                }
+            ],
+            "name": "balance"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "balance",
+                    "size": 3
+                }
+            ],
+            "name": "balance"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "distractions",
+                    "size": 3
+                }
+            ],
+            "name": "productivity"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "concentration",
+                    "size": 3
+                }
+            ],
+            "name": "productivity"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "social",
+                    "size": 3
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "time",
+                    "size": 3
+                }
+            ],
+            "name": "productivity"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "barking",
+                    "size": 2
+                }
+            ],
+            "name": "logistics"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "presence",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "coordination",
+                    "size": 2
+                }
+            ],
+            "name": "communication"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "synchronization",
+                    "size": 2
+                }
+            ],
+            "name": "communication"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "camaraderie",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "disconnection",
+                    "size": 2
+                }
+            ],
+            "name": "communication"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "whiteboards",
+                    "size": 2
+                }
+            ],
+            "name": "logistics"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "recognition",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "boundaries",
+                    "size": 2
+                }
+            ],
+            "name": "balance"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "health",
+                    "size": 2
+                }
+            ],
+            "name": "balance"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "lonliness",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "fomo",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "schedule",
+                    "size": 2
+                }
+            ],
+            "name": "logistics"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "forgotten",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "lonesome",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "love",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "family",
+                    "size": 2
+                }
+            ],
+            "name": "balance"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "trust",
+                    "size": 2
+                }
+            ],
+            "name": "communication"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "caring",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "interaction",
+                    "size": 2
+                }
+            ],
+            "name": "isolation"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "disconnected",
+                    "size": 2
+                }
+            ],
+            "name": "communication"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "buy-in",
+                    "size": 2
+                }
+            ],
+            "name": "communication"
+        },
+        {
+            "children": [
+                {
+                    "children": [],
+                    "name": "audio",
+                    "size": 2
+                }
+            ],
+            "name": "logistics"
+        }
+    ],
+    "name": "feelings"
+}
