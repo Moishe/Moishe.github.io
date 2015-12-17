@@ -19,7 +19,7 @@ Another nice thing about this metaphor is that it illustrates the complexity of 
 
 So the potato's fun and useful, right? [I dig it](https://www.google.com/webhp?#q=dad+joke).
 
-I couldn't help thinking of the potato in the recent spate of white [men]((http://techcrunch.com/2015/11/03/twitter-engineering-manager-leslie-miley-leaves-company-because-of-diversity-issues/#.urkkger:z8Qk) in [power](http://www.siliconbeat.com/2015/12/04/quoted-511/) saying they don't want to "lower the bar" when trying to hire more diverse candidates.
+I couldn't help thinking of the potato in the recent spate of white [men](http://techcrunch.com/2015/11/03/twitter-engineering-manager-leslie-miley-leaves-company-because-of-diversity-issues/#.urkkger:z8Qk) in [power](http://www.siliconbeat.com/2015/12/04/quoted-511/) saying they don't want to "lower the bar" when trying to hire more diverse candidates.
 
 Stephen Jay Gould wrote an amazing book called [The Mismeasure of Man](http://www.powells.com/book/mismeasure-of-man-9780393314250) (here's a [really good summary](http://monthlyreview.org/2006/02/01/debunking-as-positive-science/)). In this book, Gould talks about tests, such as IQ, which try to reduce intelligence to one number. Gould demonstrates two primary problems with this: first, the kinds of questions that are asked to "determine" something like IQ and the way they are analyzed are implicitly biased; second, it's impossible to map an abstract concept like "intelligence" onto a simple number -- Gould calls this "reification". Using Tim's analogy, reification is saying you know everything about a particular potato when all you have is a week-old french fry.
 
