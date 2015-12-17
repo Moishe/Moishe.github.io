@@ -5,7 +5,7 @@ cover: clouds.jpg
 
 ---
 
-This article was largely inspired by [Jessica Nordell's post on Medium](https://medium.com/@jessnordell/it-s-not-foot-in-mouth-disease-6fdc3e2b08bc#.jltonwuuk).
+This article was largely inspired by [Jessica Nordell's post on Medium](https://medium.com/@jessnordell/it-s-not-foot-in-mouth-disease-6fdc3e2b08bc#.jltonwuuk). And HUGE thanks to Lara Hogan for talking this through with me and giving me some really great feedback and ideas before I published it.
 
 My co-worker Tim and I teach an interview training class at Etsy every quarter or so. Tim's rad, and he came up with the core metaphor of our class, which he calls "mapping the potato."
 
@@ -37,4 +37,3 @@ Hiring and interviewing are much more akin to literary criticism or philosophy t
 
 If you don't do the work to become aware of your biases, and you don't gather more data about people you'd like to work with or fund with VC money or accept to school or etc., you are doing both them and yourself a disservice. It's not fun work to confront your own biases, and learning more about people is hard (though not as hard as learning about yourself). Learning about others is especially hard for many of us techies who are introverted and not used to it. It is, however, your obligation, both in a strictly moral sense, and in the sense that you are obligated to your co-workers to find more great co-workers, and you are falsely limiting yourself if you can't transcend limits that society has imagined to exist.
 
-(HUGE thanks to Lara Hogan for talking this out with me and giving me some great feedback before I published it)
