@@ -25,10 +25,10 @@ I always think about this SAT analogy: Etsy Sellers:Etsy Buyers::Etsy Admin:Etsy
 but eng occupies a special place in that equation
 
 this isn't to take away from anyone else's job, but rather to point out where eng could be doing qualitatively better than we are
-other roles are arguably more directly involved with users *already*
+other roles are arguably more directly involved with users *already* (sometimes because that's their explicit goal (seller dev, user research), sometimes because they've done work to make it happen (product))
 but we're literally putting the bits together
 the more we know about our users the better
-maybe not directly -- maybe like me we're doing general infrastructure work -- 
+maybe not directly -- maybe like me we're doing general infrastructure work --
 but knowing "the work I do is going to impact <x> who I've talked to in person" is going to make you do a better job
 
 talk about community eng team, what did we do
@@ -72,7 +72,6 @@ but here's the main thing
 
 can we also strive for that with our users?
 - think about things our competitors literally cannot do, and do those things extraordinarily well
-
 
 am i a hypocrite?
 
