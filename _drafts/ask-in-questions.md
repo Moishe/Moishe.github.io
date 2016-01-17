@@ -11,7 +11,8 @@ When I finally read _The Left Hand of Darkness_ by Ursula K. LeGuin, I felt like
 In the [introduction to that book](http://theliterarylink.com/leguinintro.html), LeGuin says something that I've never forgotten:
 
 >The artist deals with what cannot be said in words. 
->
->The artist whose medium is fiction does this in words. 
->The novelist says in words what cannot be said in words. 
+>The artist whose medium is fiction does this in words. The novelist says in words what cannot be said in words. 
 
+That idea was kind of revelatory for me, and it's such an elegant expression of, maybe, what literary criticism and to some degree history and every other liberal art _is_ -- the subtle art of uncovering things that can't be spoken of directly; the oblique approach when the direct one will fail.
+
+As I started doing more and more interviews, I realized that 
