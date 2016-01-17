@@ -6,12 +6,13 @@ cover: mountain.jpg
 
 Despite being a nerd, I was never all that into reading science fiction and fantasy when I was growing up. I tried _so hard_ to like Asimov and Tolkien -- I considered liking them kind of a ticket to entry into the world of people who liked other things I like -- but I don't think I ever finished a single book by either of them.
 
-When I finally read _The Left Hand of Darkness_ by Ursula K. LeGuin, it changed what I thought not only SF could be but really what _books_ could be.
+Then, when I was about 15, I read _The Left Hand of Darkness_ by Ursula K. LeGuin. It not only changed what I thought science fiction books could be but what I thought _books_ could be.
 
 In the [introduction to that book](http://theliterarylink.com/leguinintro.html), LeGuin says something that I've never forgotten:
 
 >The artist deals with what cannot be said in words. 
->The artist whose medium is fiction does this in words. The novelist says in words what cannot be said in words. 
+>
+>The artist whose medium is fiction does this in words. The novelist says in words what cannot be said in words.
 
 I found that idea revelatory. It's an elegant expression of, maybe, what literary criticism and to some degree history and every other liberal art _is_ -- the art of uncovering things that can't be spoken of directly; the oblique approach when the direct one fails not despite but because of its directness.
 
@@ -29,4 +30,6 @@ Let's think about what you know, with your perfect fidelity and absolute honesty
 
 Now I want to briefly talk about _bad_ interview questions, in this context. There is a broad class of terrible interview questions I call "vocab" questions, and they basically go 'tell me the definition of _x_'. These come in lots of different forms, but some common ones are "what is an immutable class?" or "what is a critical section?"
 
-These might be things that the person you're looking to hire should know, if you aren't in a position to mentor and invest in them, but the problem is that the answer only gives you one piece of data. If someone defines these things, 
+These might be things that the person you're looking to hire should know, if you aren't in a position to mentor and invest in them, but the problem is that the answer only gives you one piece of data. If the candidate answers the question perfectly, what do you know? You know they know the answer to that question, and that's all. If they don't know the answer, what do you know? You know they don't know the answer, and that's all.
+
+I believe that much of the reason for hatred of technical interviews, and their failure modes, comes from treating all technical questions like vocab questions. 
