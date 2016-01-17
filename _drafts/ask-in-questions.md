@@ -10,15 +10,15 @@ Then, when I was about 20, I read _The Left Hand of Darkness_ by Ursula K. LeGui
 
 In the [introduction to that book](http://theliterarylink.com/leguinintro.html), LeGuin says something that I've never forgotten:
 
->The artist deals with what cannot be said in words. 
+>The artist deals with what cannot be said in words.
 >
 >The artist whose medium is fiction does this in words. The novelist says in words what cannot be said in words.
 
 I found that idea revelatory. It's an elegant expression of, maybe, what literary criticism and to some degree history and every other liberal art _is_ -- the art of uncovering things that can't be spoken of directly; the oblique approach when the direct one fails not despite but because of its directness.
 
-After being actively involved in interviewing for a few years, I realized that deriving answers to unasked questions is at the heart of what great interviewers do. I also realized that questions that are anything _other_ than surface-level starting places -- lights to cast shadows on the cave wall, if you will -- are classic examples of bad interview questions.
+After being actively involved in interviewing for a few years, I realized that deriving answers to unasked questions is at the heart of what great interviewers do. I also realized that questions that are anything _other_ than surface-level starting places -- lights to cast shadows on the cave wall, if you will -- are bad interview questions.
 
-Imagine you are conducting an interview where every question you ask would be answered with perfect fidelity. What kind of questions would you ask? Are the answers you'd want even answers to ask-able questions? I assert that what you want is qualitatively un-askable _and_ unanswerable. Unanswerable in words, at any rate.
+Imagine you are conducting an interview where every question you ask will be answered with perfect truth and fidelity. What kind of questions would you ask? Are the answers you'd want even answers to ask-able questions? I assert that the information you want is qualitatively un-askable _and_ unanswerable. Unanswerable in words, at any rate.
 
 For instance, something I look for in co-workers is, well, whether they _know how a computer works_. So in our imaginary full-fidelity, absolute-honesty world, maybe I could ask a candidate "hey candidate, do you know how a computer works?" hoping for a magical shortcut. But what would the answer be? If "yes," what does that mean? Does it mean the candidate could give a formal proof of Turing-completeness for an arbitrary set of rules? Does it mean they could explain how a modern processor works in perfect detail? Does it mean they could debug an intermittent failure in minified Javascript? Any of those things might be examples of "knowing how a computer works" but any one of them doesn't imply the others.
 
@@ -42,9 +42,18 @@ Let's take one of my favorite questions, [solve a boggle board](http://stackover
 
 Like the "what's a critical section" question, you have only determined whether the candidate could recognize and code a breadth-first search. You've identified nothing beyond that; you have mapped an infinitesimally small piece of the candidate's [potato-space](/2015/12/16/lowering-the-bar/).
 
-Presumably something else happened in the interview the simple mechanics of the interviewer presenting the problem and the candidate writing code to solve it. If that was all there was to it, then we could replace the entire interview process with a written exam. 
+Presumably something else happened in the interview beyond the simple mechanics of the interviewer presenting the problem and the candidate writing code to solve it. If that was all there was to it, then we could replace the entire interview process with a written exam. So why don't we? Because, in a good interview, we are looking for exactly the kind of data that cannot be obtained through a written exam.
+
+What kind of data am I talking about? I'm talking about how the candidate communicates -- can they ask questions, look for clarifications, listen to answers? Do they interrupt you when you're talking? If they do, is it because they're excited, or is it because they're not listening? Can they clearly explain algorithms? How do they react to questions about their code?
 
 Your job as an interviewer isn't only to ask a series of question and see if the candidate can answer them correctly -- indeed, that isn't your job _at all_.
 
-Your job as an interviewer is not to see what a candidate knows or doesn't know -- that set of things is constantly changing, even over the course of an interview. Your job as an interviewer is to see what 
+Your job as an interviewer is not to see what a candidate knows or doesn't know -- that set of things is constantly changing, even over the course of an interview. Your job as an interviewer is to ask, using words, questions that _cannot be asked in words_ and derive answers that _cannot be answered in words_.
 
+So: how do you do that? As technical interviewers, we are very lucky in that we have a scaffolding to do that. We can and should ask technical questions -- on the surface level we can assess what a candidate knows, which, as I said, is useful in a very narrow scope. This scaffolding gives you the words you can use to ask what can't be asked in words.
+
+The real strength of this scaffolding is that it gives us a structure to get to a thing the candidate _doesn't know_ and that is where the real magic starts to happen.
+
+Postscript: Bias
+===
+_There's a thing that lurks in my mind when I talk about the aspects of interviewing beyond skills & knowledge, and that thing is bias. There is an argument that if you only look at objective results -- knowledge, facts, etc. -- you are less subject to biases both conscious and unconscious. This subject deserves its own post, and I'm working on that. Apologies for not addressing it directly, but know that it is something that I am thinking about, and I'm aware that it is a critique of talking about interviewing like this. In the meantime, I recommend [this presentation](https://www.youtube.com/watch?v=nLjFTHTgEVU) and this [article by Cate Huston](https://modelviewculture.com/pieces/we-hire-the-best)_
