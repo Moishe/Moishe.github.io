@@ -25,6 +25,8 @@ Again in this magical full-fidelity and perfectly honest world, imagine you ask 
 
 I assert that even then the information you've received is borderline useless.
 
-Let's think about what you know: you know one particular thing that candidate can do. You don't know why they can do that, or how they do it, or whether they can teach someone else to do it. You don't if they can apply what they know from that particular thing to anything else.
+Let's think about what you know, with your perfect fidelity and absolute honesty: you know one particular thing that candidate can do. You don't know why they can do that, or how they do it, or whether they can teach someone else to do it. You don't if they can apply what they know from that particular thing to anything else.
 
-Now I want to briefly talk about _bad_ interview questions, in this context. There is a broad class of terrible interview questions I call "vocab" questions, and they basically go 'tell me the definition of _x_'. These come in lots of different forms, 
+Now I want to briefly talk about _bad_ interview questions, in this context. There is a broad class of terrible interview questions I call "vocab" questions, and they basically go 'tell me the definition of _x_'. These come in lots of different forms, but some common ones are "what is an immutable class?" or "what is a critical section?"
+
+These might be things that the person you're looking to hire should know, if you aren't in a position to mentor and invest in them, but the problem is that the answer only gives you one piece of data. If someone defines these things, 
