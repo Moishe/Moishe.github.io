@@ -42,5 +42,9 @@ Let's take one of my favorite questions, [solve a boggle board](http://stackover
 
 Like the "what's a critical section" question, you have only determined whether the candidate could recognize and code a breadth-first search. You've identified nothing beyond that; you have mapped an infinitesimally small piece of the candidate's [potato-space](/2015/12/16/lowering-the-bar/).
 
-Presumably something else happened in the interview beyond you, the interviewer, presenting the problem and the candidate writing code to solve it. Your job as an interviewer isn't only to ask a question and see if the candidate can answer it correctly -- indeed, that isn't your job _at all_.
+Presumably something else happened in the interview the simple mechanics of the interviewer presenting the problem and the candidate writing code to solve it. If that was all there was to it, then we could replace the entire interview process with a written exam. 
+
+Your job as an interviewer isn't only to ask a series of question and see if the candidate can answer them correctly -- indeed, that isn't your job _at all_.
+
+Your job as an interviewer is not to see what a candidate knows or doesn't know -- that set of things is constantly changing, even over the course of an interview. Your job as an interviewer is to see what 
 
