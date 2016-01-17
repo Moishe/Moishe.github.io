@@ -17,6 +17,12 @@ I found that idea revelatory. It's an elegant expression of, maybe, what literar
 
 A few years after I started being pretty actively involved in interviewing at Google, I realized that deriving answers to unasked questions is at the heart of what great interviewers do. I also realized that questions that are anything _other_ than surface-level starting places -- lights to cast shadows on the cave wall, if you will -- are classic examples of bad interview questions.
 
-Imagine you are in an interview ehere every questions you ask would be answered with perfect fidelity. What kind of questions would you ask? _Are_ the answers you'd want even answers to ask-able questions? I assert that what you want is of qualitatively un-askable, and can only be observed obliquely.
+Imagine you are in an interview where every question you ask would be answered with perfect fidelity. What kind of questions would you ask? Are the answers you'd want even answers to ask-able questions? I assert that what you want is qualitatively un-askable _and_ unanswerable. Unanswerable in words, at any rate.
 
-For instance, something I look for in co-workers is, well, whether they _know how a computer works_. So in my imaginary full-fidelity, absolute-honesty world, maybe I could ask a candidate "hey candidate, do you know how a computer works?" and perform a magical shortcut. But what would the answer be? If "yes," what does that mean? Does it mean you could give a formal proof of Turing-completeness for an arbitrary machine? Does it mean you could explain how a modern processor works in perfect detail?  
+For instance, something I look for in co-workers is, well, whether they _know how a computer works_. So in my imaginary full-fidelity, absolute-honesty world, maybe I could ask a candidate "hey candidate, do you know how a computer works?" and perform a magical shortcut. But what would the answer be? If "yes," what does that mean? Does it mean the candidate could give a formal proof of Turing-completeness for an arbitrary machine? Does it mean they could explain how a modern processor works in perfect detail? Does it mean they could debug an intermittent failure in minified Javascript? Any of those things might be examples, but let's reduce it.
+
+Again in this magical full-fidelity and perfectly honest world, imagine you ask a candidate "could you debug an intermittent failure in minified Javascript?" Maybe in this world, they say "yes" and maybe they even tell you about a time when they did exactly that.
+
+I assert that even then the information you've received is borderline useless.
+
+Let's think about 
