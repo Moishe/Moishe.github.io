@@ -4,7 +4,7 @@ title: Ask in Questions
 cover: mountain.jpg
 ---
 
-Despite being a nerd, I was never all that into reading science fiction and fantasy when I was growing up. I tried _so hard_ to like Asimov and Tolkien -- I considered liking them kind of a ticket to entry into the world of people who liked other things I like -- but I don't think I ever finished a single book by either of them.
+Despite being a nerd, I was never all that into reading science fiction and fantasy when I was growing up. Here's a confession: I've never finished a single book by Tolkien or Asimov, though I tried many times in middle school and high school.
 
 Then, when I was about 20, I read _The Left Hand of Darkness_ by Ursula K. LeGuin. It not only changed what I thought science fiction books could be but what I thought _books_ could be.
 
@@ -54,7 +54,7 @@ So: how do you do that? As technical interviewers, we are very lucky in that we 
 
 The real strength of this scaffolding is that it gives us a structure to get to a thing the candidate _doesn't know_ and that's where the real magic starts to happen. If you think about asking surface level questions as moving along one vector in the aforementioned potato-space, when you hit a boundary that vector explodes in all kinds of different directions. All of a sudden you're not asking "do you know this thing," you're asking "what happens when you don't know a thing?" When your job is to make something out of nothing -- and that is really what you're doing in _any_ creative field, creating software among them -- the most common situation you will face is not knowing. So if you as an interviewer can watch the candidate _show you_ -- not tell you! -- what they do in what is both the most challenging and most important part of their day-to-day job, you are all of a sudden going to see all sorts of stuff you could never, ever ask directly about: are they threatened? Are the excited? Do they ask questions? Do they make theories and test them? Can they use their existing knowledge to build towards an answer?
 
-All this isn't to say that there's not room for assessing a candidate's immediate skills: that will "fall out" of the process of getting at the more interesting, deeper questions. Depending on what you need, you might need someone who doesn't need training or investment before contributing to a particular problem. But those skills are secondary to the
+All this isn't to say that there's not room for assessing a candidate's immediate skills: that will "fall out" of the process of getting at the more interesting, deeper questions. Depending on what you need, you might need someone who doesn't need training or investment before contributing to a particular problem. But if you are interviewing well, answering those questions will give you answers to much more interesting questions as well.
 
 Postscript: Bias
 ===
