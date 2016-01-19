@@ -1,0 +1,129 @@
+"talking to customers" outline
+
+main points
+===
+
+generic tenet is "talk to our users"
+chad says it, mikeg says it, everyone says it
+and it's not just talk!
+bernadette does a ton of work to help us meet users
+adrienne does a ton of work to help us help users
+
+even in eng
+
+a basic piece of deploying features is using prototype groups
+prototype groups have forums; sometimes engineers participate
+
+we can also watch research sessions
+read forums
+etc
+
+my goal though is to encourage everyone in this room to go much further
+
+I always think about this SAT analogy: Etsy Sellers:Etsy Buyers::Etsy Admin:Etsy Users
+
+but eng occupies a special place in that equation
+
+this isn't to take away from anyone else's job, but rather to point out where eng could be doing qualitatively better than we are
+other roles are arguably more directly involved with users *already* (sometimes because that's their explicit goal (seller dev, user research), sometimes because they've done work to make it happen (product))
+but we're literally putting the bits together
+the more we know about our users the better
+maybe not directly -- maybe like me we're doing general infrastructure work --
+but knowing "the work I do is going to impact <x> who I've talked to in person" is going to make you do a better job
+
+talk about community eng team, what did we do
+
+- captain's summits
+- craft fairs
+- craft party calendar
+
+what happened
+
+- first-name basis -- or even friends -- with some of our best sellers
+- motivation
+- profound sense of caring & responsibility
+- team identity & esprit-du-corps "we're the ones who help team captains -- people like Karli -- make great teams"
+
+maybe this was the wrong outcome?
+
+- might've slowed down our velocity
+  - more time talking less time coding
+  - more time on foundations with assumption of long-term investment
+- made getting reorged extremely difficult
+  - betrayal
+  - failure
+  - "table with nothing on it"
+  - what are the people who i'm friends with on facebook gonna think? we're abandoning them
+
+i obviously don't think it was
+
+- worth acknowledging risks
+
+but here's the main thing
+
+- i think sometimes we worry about our sellers overreacting to bad news
+  - internal reputation of forums as being hive of discontent/complaining
+  - our own preconceptions of sellers are hugely inaccurate (eg. Ele Willoughby)
+- sometimes we treat our own employees the same way
+- it's patronizing to shield people from bad news and not trust them to see big picture
+- we were able to admit problems with planning/re-org and be very transparent and honest about it internally
+- normalize change and it's less scary for everyone
+- ^ transparency, ^ honesty, ^ trust => tighter bonds => better ideas, better feedback, users as evangelists
+
+can we also strive for that with our users?
+- think about things our competitors literally cannot do, and do those things extraordinarily well
+
+am i a hypocrite?
+
+- yeah probably
+
+
+====
+
+set up S&T
+talk to mike about alexander
+mpulse data => from mike
+
+title?
+questions for panel?
+
+infrastructure
+concrete next steps
+kimm & bernadette
+
+===
+
+notes for talk
+
+this is my story about how I talk to users
+not a how to, not saying it's only or best, I'm sure there are people doing it better
+but I want to talk about why I think it matters that we *do* talk to our users
+not proscriptive, but descriptive
+
+a little background, my mom: Etsy Seller?
+assumption about who our sellers are
+
+
+
+====
+
+okay let's go
+
+here's the basic arc:
+
+- preface: I want to talk about talking to users, by focusing on my personal experience
+- lots of people and lots of people IN THIS ROOM already do this and probably do better at it than I do!
+- find your own path
+
+- my mom/my home
+  - growing up, surrounded by art, my mom almost obsessively making beautiful things
+- walk into Etsy, feels like home
+- huge part of taking job was thought about how different my childhood might've been if Etsy had existed
+- so I sorta thought i knew our users
+- then I went to Berlin
+- whoa! whole other level. People running teams: true leadership, creativity, inventiveness
+- maybe screenshot from designosaurYEAH
+- lithuanian street team
+- okay so
+- tried to fold that into the community team
+- some things we did:
