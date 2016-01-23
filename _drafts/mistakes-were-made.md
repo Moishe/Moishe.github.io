@@ -1,5 +1,6 @@
 ---
 title: Mistakes Were Made
+cover: trees.jpg
 ---
 
 This is a transcript from a talk I gave at a recent "engineering leadership" offsite at Etsy.
@@ -7,13 +8,13 @@ This is a transcript from a talk I gave at a recent "engineering leadership" off
 _(this slide intentionally left blank)_
 --
 
-Hi there, I’m Moishe. I’m an engineer on the Performance team; before that I was the manager of the Community Engineering team and before that I was a member of the Seller Economics team. Before coming to Etsy I was at Google for about 7 years and Microsoft for a while before that.
+Hi there, I’m Moishe. I’m an engineer on the Performance team; before that I was the manager of the Community Engineering team and before that I was a member of the Seller Economics team.
 
 I’m going to talk about talking to users, and sellers in particular. I’m going to talk about this through the lens of my personal experience: this talk is not meant to be a rigorous “how to” guide. There are lots of people at Etsy, many of them in this room, who know far more about talking to our sellers than I do, and who have talked to far more of them than I have. If you’re one of them: this talk isn’t for you. Sorry! You get a consolation prize which I’ll discuss in a second.
 
 My goal in this talk is to convince those of you who haven’t talked to our sellers often, or those of you who lead teams whose members haven’t, to go meet some of our sellers and talk to them in person. It’s mostly fun, I promise, and sometimes it’s not fun, and that’s okay too.
 
-For those of you who already know all the things I’m saying and/or anyone who finds this boring for other reasons, all the slides except 2 of them are still lifes from the 17th and 18th centuries. If you find yourself nodding off, you could look at these paintings and think about the impermanence of all things.
+For those of you who already know all the things I’m saying and/or anyone who finds this boring for other reasons, all the slides except 2 of them are still lifes from the 17th and 18th centuries. If you find yourself nodding off, you could look at these paintings and think about the impermanence of all things including, but not limited to, this talk.
 
 ![Avi & Amelia](/images/mistakes/avi-amelia.png)
 ---
@@ -25,7 +26,7 @@ On the left is a picture of my daughter and my brother at my childhood home. Thi
 
 And you see a kid watching an adult making things, and learning.
 
-On the right is my daughter, applying some of that learning, just straight up painting on the walls, under the watchful eye of some weird art.
+On the right is my daughter, applying some of that learning, just straight up painting on the walls, under the watchful eye of some of my brother's art.
 
 ![Painting on Walls](/images/mistakes/wall-paint.png)
 ---
