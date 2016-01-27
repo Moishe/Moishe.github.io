@@ -8,13 +8,13 @@ This is a transcript from a talk I gave at a recent "engineering leadership" off
 _(this slide intentionally left blank)_
 --
 
-Hi there, I’m Moishe. I’m an engineer on the Performance team; before that I was the manager of the Community Engineering team and before that I was a member of the Seller Economics team.
+Hi there, I’m Moishe. I’m an engineer on the Performance team; before that I was the manager of the Community Engineering team and before that I was an engineer on the Seller Economics team.
 
-I’m going to talk about talking to users, and sellers in particular. I’m going to talk about this through the lens of my personal experience: this talk is not meant to be a rigorous “how to” guide. There are lots of people at Etsy, many of them in this room, who know far more about talking to our sellers than I do, and who have talked to far more of them than I have. If you’re one of them: this talk isn’t for you. Sorry! You get a consolation prize which I’ll discuss in a second.
+I’m going to talk about talking to users, and sellers in particular. I’m going to talk about this through the lens of my personal experience: this talk is not meant to be a rigorous “how to” guide. There are lots of people at Etsy, many of them in this room, who know far more about talking to our sellers than I do, and who have talked to far more of them than I have. If you’re one of them: this talk isn’t really for you. Sorry! You get a consolation prize which I’ll discuss in a second.
 
 My goal in this talk is to convince those of you who haven’t talked to our sellers often, or those of you who lead teams whose members haven’t, to go meet some of our sellers and talk to them in person. It’s mostly fun, I promise, and sometimes it’s not fun, and that’s okay too.
 
-For those of you who already know all the things I’m saying and/or anyone who finds this boring for other reasons, all the slides except 2 of them are still lifes from the 17th and 18th centuries. If you find yourself nodding off, you could look at these paintings and think about the impermanence of all things including, but not limited to, this talk.
+For those of you who already know all the things I’m saying and/or anyone who finds this boring for other reasons, all the slides except 2 of them are still lifes from the 17th and 18th centuries. If you find yourself nodding off, you could look at these paintings and ponder life’s impermanence.
 
 ![Avi & Amelia](/images/mistakes/avi-amelia.png)
 ---
@@ -22,15 +22,15 @@ So, I want to start by talking about my childhood, if you'll indulge me.
 
 Many of my childhood memories are of my mom sitting at our dining room table, making things. She made quilts, she painted, she made pysanky eggs, she made incredible cards and birth announcements and paper cuts.
 
-On the left is a picture of my daughter and my brother at my childhood home. Things haven’t changed much: my brother’s painting more than my mom now, but you can see the art on the walls and art supplies everywhere and some clutter and mess and maybe you get the sense that that is okay as long as something is being made. 
+On the left is a picture of my daughter and my brother at my childhood home. Things haven’t changed much: my brother’s painting more than my mom now, but you can see the art on the walls and art supplies everywhere and some clutter and mess and maybe you get the sense that that is okay as long as something is being made.
 
 And you see a kid watching an adult making things, and learning.
 
-On the right is my daughter, applying some of that learning, just straight up painting on the walls, under the watchful eye of some of my brother's art.
+On the right is my daughter, applying some of that learning, just straight up painting on the walls, under the watchful eye of my brother's art.
 
 ![Painting on Walls](/images/mistakes/wall-paint.png)
 ---
-When I walked into Etsy for my interview, it felt like I was coming home. There was weird art, a palpable sense of creativity, a bunch of weird people, and it was all a bit of a mess. There was nobody painting on the walls right then but it sure seemed like someone might, at any minute.
+When I walked into Etsy for my interview, it felt like I was coming home. There was art everywhere, a palpable sense of creativity, a bunch of weird people, and it was all a bit of a mess. There was nobody painting on the walls right then but it sure seemed like someone might, at any minute.
 
 I'd never felt more at home at a place I might work.
 
@@ -40,7 +40,6 @@ I took the job at Etsy with one seller in mind: my mom.
 
 ![Table with Lobster, Silver Jug, Fruit Bowl, Violin and Books | Pieter Claesz, 1641](/images/mistakes/claesz.png)
 ---
-
 For about a year, I learned lots more about engineering at Etsy, but I didn’t meet any sellers. I knew a little bit more about them, but mostly through hearsay or by reading forums. Other than admin who were sellers, the only actual Etsy seller I knew was my mom, who had set up her own shop on Etsy shortly after I started working here.
 
 That changed, serendipitously, in 2014.
@@ -51,11 +50,9 @@ Because I was planning to work on improving features related to Teams in 2014, I
 
 I have, honestly, never had a more transformative work-related experience than I did at that Summit. I thought I knew some things about our sellers: I assumed (correctly) that many of them were very, very good at making things. What I didn't know is that many of them are also incredible business-people, incredible leaders of people, and incredibly good at doing a vast array of very hard things far outside the scope of making what they sell.
 
-I left Berlin after spending time with this amazing group of people -- hearing them present, helping them brainstorm, eating delicious food with them, seeing them literally cry about each other’s successes and failures -- as inspired as I’ve ever been about a job. 
+I left Berlin after spending time with this amazing group of people -- hearing them present, helping them brainstorm, eating delicious food with them, seeing them literally cry about each other’s successes and failures -- as inspired as I’ve ever been about a job.
 
-DO NOT TELL MY MOM BUT THESE SELLERS ALMOST TRUMPED MY MOM.
-
-Among other great talks, I heard about organizing a team on a shoestring budget and solely volunteer work to become a social-media powerhouse. I heard about organizing an extraordinarily successful pop-up shop with no money and no time. I heard, amazingly, about the entire Lithuanian team defeating a draconian postage-rate increase by the Lithuanian government.
+Among other great talks, I heard about organizing a team on a shoestring budget and solely volunteer work to become a social-media powerhouse. I heard about organizing an extraordinarily successful pop-up shop with no money and no time. I heard, amazingly, about the Lithuanian team defeating a draconian postage-rate increase by the Lithuanian government.
 
 ![Still Life with Asparagus | Adriaen Coorte, 1697](/images/mistakes/coorte.png)
 ---
@@ -63,7 +60,7 @@ So: I came back from Berlin incredibly excited. I had just taken over as manager
 
 I wanted to give my teammates the chance to share in my excitement and inspiration and positive feelings about our sellers. I wanted them to have the same kinds of experiences that I did, and have a way to think about some of the individual humans who would use the software we were writing. I encouraged everyone on my team to attend Captain’s Summits and Craft Fairs; two members talked at Captain’s Summits (one in Paris and one in London); all of us talked to sellers on Forums and Teams.
 
-One of the people on my team went to a Home for the Holidays event and met a seller who showed him a picture of the house she’d bought with money she made from Etsy. 
+One of the people on my team went to a Home for the Holidays event and met a seller who showed him a picture of the house she’d bought with money she made from Etsy.
 
 Another member of our team described the joy of telling a bunch of Sellers -- in France, through a translator -- about the work she was doing and watching the room react with delight.
 
@@ -73,7 +70,7 @@ While we were building software, and while we were talking to sellers, we starte
 
 Etsy is built on the idea that we can build a more fulfilling and lasting world by increasing the sense of connection between people who make things and people who use those things.
 
-We all, in this room, in Engineering, and everyone who works at Etsy, are actively involved in building a thing. Our users … well, they use that thing by definition, right? So there’s a beautiful parallel between what we -- all of Etsy Admin -- do for our users and what our sellers do for our buyers.
+We all, in this room, in Engineering, and everyone who works at Etsy, are actively involved in building a thing: Etsy. Our users … well, they use that thing by definition, right? So there’s a beautiful parallel between what we -- all of Etsy Admin -- do for our users and what our sellers do for our buyers.
 
 This is happy and positive and full of good feelings, isn’t it?
 
@@ -89,7 +86,7 @@ So, in Toronto, I spoke to a woman who was devastated by this: she’d been runn
 
 One of my teammates met a seller who had been very successful but whose shop just stopped getting traffic. He couldn’t find a great explanation, and the seller was understandably upset. It was awkward, and difficult, and he felt powerless.
 
-It wasn’t like there was some sea change in seller happiness, it was just that we were talking to sellers in person frequently enough that our sample size grew enough to include sellers who were willing to tell us the hard parts, in person.
+It wasn’t like there was some sea change in seller happiness, it was just that we were talking to sellers in person frequently enough that our sample size grew enough to include the bad parts.
 
 Then, Etsy re-prioritized its projects, and our team got shifted around, and the things we thought we were doing were no longer the things we were doing. That was awkward, and difficult, and we felt powerless.
 
@@ -97,7 +94,7 @@ Then, Etsy re-prioritized its projects, and our team got shifted around, and the
 ---
 Now, we knew our users. We’d been working on projects with an eye towards long-term investment. We could easily think about individual human beings using the stuff we’d been working on, because we’d met them in person. But all of a sudden we weren’t doing those things for those people any more.
 
-I will admit that, for longer than I’d like to admit, I thought that I’d made a terrible mistake. I thought that, in a system where we could suddenly not be doing the things we thought we were doing, that investing the time in building human relationships with our users was for naught. These people were my Facebook friends for god’s sake; they’d hear about this and then they’d write on my wall about how terrible I was and MY MOM would see it!
+For longer than I’d like to admit, I thought I’d made a terrible mistake. I thought that, in a system where we could suddenly not be doing the things we thought we were doing, that investing the time in building human relationships with our users was for naught. Some of these people were my Facebook friends; they’d hear about this and then they’d write on my wall about how terrible I was and MY MOM would see it!
 
 I thought about the seller I’d talked to in Toronto, and the seller my teammate had talked to in Minnesota, and how disappointed they were at changes we’d made. I thought about all the Captains we’d met in Berlin, and Paris, and London, and how disappointed they’d be.
 
@@ -115,10 +112,13 @@ Nothing is permanent and very little is predictable, least of all people and the
 
 We are building a business based on the connections between people. These connections are beautiful and good. Meeting other human beings is a thing that brings us human beings joy. Watching other people use the things we’ve built is incredibly fulfilling.
 
-But that fulfillment and that joy cannot exist without pain and disappointment and sorrow. Those hard things are an inextractible, essential part of every human connection. Those hard things are immanent in building things that other people use. We, as engineers, are not special in that regard. I promise that for every hardship we endure -- every broken build, every hold in the push queue, every organizational frustration -- each one of our sellers can match it and more: dried-up paint, cracked clay, bad suppliers, derelict buyers, bills that pile up faster than orders.
+But that fulfillment and that joy cannot exist without pain and disappointment and sorrow. Those hard things are an inextractible, essential part of every human connection. Those hard things are immanent in building things that other people use. We, as engineers, are not special in that regard. I promise that for every hardship we endure -- every broken build, every hold in the push queue, every organizational frustration -- each one of our sellers can match it and more: dried-up paint, cracked clay, bad suppliers, buyers who are impossible to satisfy, bills that pile up faster than orders.
 
-The fun and joyful things bring us joy; the hard and painful things bring us empathy.
+The fun things bring us joy; the hard and painful things bring us empathy.
 
 The fulfillment we feel in building Etsy, in reimagining commerce, comes not only from the fun and inspiring times, but also from the things that are hard. I’m asking you to do something -- talk to sellers, in person, face to face -- that is mostly fun and inspiring but inevitably difficult.
 
-Please, go talk to our sellers. They’re a lot like us.
+It is worth it. We will be better makers of things by knowing other makers of things as the human beings they are: with their own joys, with their own success, with their own struggles. Our jobs become more fulfilling and we become more thoughtful when we can see the spectrum -- from the directly good to the inadvertantly bad -- of the impact it has on the world.
+
+Please, talk to our sellers. They’re a lot like us.
+
