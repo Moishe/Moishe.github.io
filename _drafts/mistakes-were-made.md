@@ -26,7 +26,7 @@ On the left is a picture of my daughter and my brother at my childhood home. Thi
 
 And you see a kid watching an adult making things, and learning.
 
-On the right is my daughter, applying some of that learning, just straight up painting on the walls, under the watchful eye of my brother's art.
+On the right is my daughter, applying some of that learning, just straight up painting on the walls, under the watchful eye of my brother’s art.
 
 ![Painting on Walls](/images/mistakes/wall-paint.png)
 ---
@@ -40,13 +40,13 @@ I took the job at Etsy with one seller in mind: my mom.
 
 ![Table with Lobster, Silver Jug, Fruit Bowl, Violin and Books | Pieter Claesz, 1641](/images/mistakes/claesz.png)
 ---
-For about a year, I learned lots more about engineering at Etsy, but I didn’t meet any sellers. I knew a little bit more about them, but mostly through hearsay or by reading forums. Other than admin who were sellers, the only actual Etsy seller I knew was my mom, who had set up her own shop on Etsy shortly after I started working here.
+For about a year, I had learned lots more about engineering at Etsy, but I didn’t meet any sellers. I knew a little bit more about them, but mostly through hearsay or by reading forums. Other than admin who were sellers, the only actual Etsy seller I knew was my mom, who had set up her own shop on Etsy shortly after I started working here.
 
 That changed, serendipitously, in 2014.
 
-As part of the 2014 planning process, I submitted a proposal to improve Etsy Teams. If you haven’t heard of them, Teams are basically a way for sellers on Etsy to self-organize. Teams organize around common interests or geographic location, and some of them are quite big and well-known. These Teams are generally run by one person, called a Captain, and sometimes a few helpers, called Leaders. These Captains and Leaders fill all sorts of roles, from recruiting members to organizing Craft Fairs to kicking obnoxious people off their team and everything in between. These Teams are organized in what are essentially sub-forums on Etsy itself.
+As part of the 2014 planning process, I submitted a proposal to improve Etsy Teams. If you haven’t heard of them, Teams are basically a way for sellers on Etsy to self-organize. Teams coalesce around common interests or geographic location, and some of them are quite big and well-known. These Teams are generally run by one person, called a Captain, and sometimes a few helpers, called Leaders. These Captains and Leaders fill all sorts of roles, from recruiting members to organizing Craft Fairs to kicking obnoxious people off their team and everything in between. These Teams are organized in what are essentially sub-forums on Etsy itself.
 
-Because I was planning to work on improving features related to Teams in 2014, I was invited to give a presentation at the Captain’s Summit in Berlin. If you don’t know about Captain’s Summits (I didn’t before I was invited!) let me give a little bit of background. These summits are organized by Etsy as a place for Captains and some non-Captain Leaders to get together and socialize and tell each other about their teams and what works and what doesn’t and so on. Many Etsy admin put a ton of work into making these things successful: inviting particularly great captains to talk, giving their own talks, making sure everything runs smoothly, etc.
+Because I was planning to work on improving features related to Teams in 2014, I was invited to give a presentation at the Captain’s Summit in Berlin. Captain’s Summits are organized by Etsy as a place for Captains and some non-Captain Leaders to get together and socialize and tell each other about their teams and what works and what doesn’t and so on. Many Etsy admin put a ton of work into making these things successful: inviting particularly great captains to talk, giving their own talks, making sure everything runs smoothly, etc.
 
 I have, honestly, never had a more transformative work-related experience than I did at that Summit. I thought I knew some things about our sellers: I assumed (correctly) that many of them were very, very good at making things. What I didn't know is that many of them are also incredible business-people, incredible leaders of people, and incredibly good at doing a vast array of very hard things far outside the scope of making what they sell.
 
@@ -102,7 +102,7 @@ I thought I made a mistake by getting to know all these sellers and telling them
 
 I thought, for a while, that I’d made things worse for lots of people -- me, my teammates, some sellers -- by talking to sellers and encouraging my teammates to do the same.
 
-I’ve made lots and lots of mistakes, plenty of them here at Etsy, but I don’t think knowing all these amazing people was one of them.
+I’ve made lots and lots of mistakes, plenty of them here at Etsy, but I don’t think this was one of them.
 
 ![Still Life with a Gilt Cup | Willem Claesz. Heda, 1635](/images/mistakes/claesz-2.png)
 ---
@@ -118,7 +118,6 @@ The fun things bring us joy; the hard and painful things bring us empathy.
 
 The fulfillment we feel in building Etsy, in reimagining commerce, comes not only from the fun and inspiring times, but also from the things that are hard. I’m asking you to do something -- talk to sellers, in person, face to face -- that is mostly fun and inspiring but inevitably difficult.
 
-It is worth it. We will be better makers of things by knowing other makers of things as the human beings they are: with their own joys, with their own success, with their own struggles. Our jobs become more fulfilling and we become more thoughtful when we can see the spectrum -- from the directly good to the inadvertantly bad -- of the impact it has on the world.
+It is worth it. We will be better makers of things by knowing other makers of things as the human beings they are: with their own joys, with their own success, with their own struggles. Our jobs become more fulfilling and we become more thoughtful when we can see the spectrum -- from the directly good to the inadvertantly bad -- of the experience of our users.
 
 Please, talk to our sellers. They’re a lot like us.
-
