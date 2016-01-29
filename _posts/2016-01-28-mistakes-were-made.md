@@ -118,6 +118,6 @@ The fun things bring us joy; the hard and painful things bring us empathy.
 
 The fulfillment we feel in building Etsy, in reimagining commerce, comes not only from the fun and inspiring times, but also from the things that are hard. I’m asking you to do something -- talk to sellers, in person, face to face -- that is mostly fun and inspiring but inevitably difficult.
 
-It is worth it. We will be better makers of things by knowing other makers of things as the human beings they are: with their own joys, with their own success, with their own struggles. Our jobs become more fulfilling and we become more thoughtful when we can see the spectrum -- from the directly good to the inadvertantly bad -- of the experience of our users.
+It is worth it. We will be better makers of things by knowing other makers of things as the human beings they are: with their own joys, with their own success, with their own struggles. Our jobs become more fulfilling and we become more thoughtful when we can see the entire experience of our users.
 
 Please, talk to our sellers. They’re a lot like us.
