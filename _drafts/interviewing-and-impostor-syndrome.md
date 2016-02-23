@@ -20,7 +20,11 @@ I hadn't thought in enough depth about my particular priviledge around this issu
 
 Growing up in the 80s, during the era of computer "whiz kids" it was so incredibly easy for me to identify with people like Bill Gates and Nolan Bushnell and Steve Wozniak and Bill Atkinson in no small part because they looked like slightly modified, older versions of me. Beyond that, I was told explicitly and implicitly -- by living in a rich suburban town, and having family members who were nerdy and smart and academic, and watching movies like Real Genius that were full of nerds who looked like older versions of me -- that it was safe to be a little rebellious and a little weird and that even not knowing things or being selectively lazy was a form of social cachet.
 
-I had never imagined, really, what it might be like to grow up in a situation where your ability 
+I had never imagined, really, what it might be like to grow up in a situation where your ability to be good at writing computer programs would be doubted because of how you looked or where you lived. I'd never thought how it might feel, when those doubts are constant and implicit, to say "I don't know."
+
+I can't really imagine that, still, but the best I can do is accept that it is a real thing that effects a lot of really smart people; people who look different than me -- people of different races, different genders. This self-doubt that comes from a constant pervasive socieital doubt effects many people who I would probably love to work with in ways I will never be privy to.
+
+
 
 Don't get me wrong -- the "I don't know" moment is terrifying for _everyone_. I did a mock interview last week as part of an interview training class, and I knew the question, and I'm friends with the guy who was mock-interviewing me, and I even had a good sense of how I could guide the the interview down a path where the stuff-I-didn't-know was relatively unthreatening, and I was still moderately terrified beforehand and a little shaky and had a tiny flop-sweat going on.
 
