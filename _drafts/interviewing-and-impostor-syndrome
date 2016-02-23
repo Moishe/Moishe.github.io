@@ -1,0 +1,29 @@
+---
+title: Interviewing & Impostor Syndrome
+cover: trees.jpg
+---
+
+As I've mentioned before, my co-worker Tim & I teach an interview training class at Etsy, which we call "Interviewing 101." It's not meant to be a thorough "how to" guide about how to be a great technical interviewer -- such a thing does not exist -- but it's meant to give some guidelines about what the *goals* of an interview are.
+
+A key piece of this -- a key piece of what an interview is -- indeed, what the goal of the interview is -- is to get to an "I don't know" moment. Your goal is to reach a point with the candidate where they don't know the answer to something you're asking, but in such a way that they can figure out what an answer might be. This is contrasted with what I call "vocab questions" where if you don't know the answer, you have nowhere to go.
+
+Probably the canonical example of a question that can get to an "I don't know" state fairly quickly is "what happens when you request etsy.com in your web browser?" There are so many different paths this question can go down that it is vanishingly likely that anyone knows any of them in so much depth that you can't get to something they don't know in 5 minutes or so (and if it takes longer, you've already learned something great about the candidate).
+
+So, as Tim & I present interviewing, when you get to the "I don't know" moment -- the candidate doesn't know how TCP handshakes work, the candidate doesn't know how distributed DNS lookup works, the candidate doesn't know how the keyboard triggers interrupts in the OS to deliver events to the browser -- when you get to that moment, you all of a sudden learn all sorts of things. "All those things" can be summarized as "how does the candidate react when they don't know something?" and this moment is extremely fertile with learning possibilities.
+
+So that's great.
+
+This past weekend I got together with about 40 friends for a weird conference (I refuse to use the word "unconference" sorry) and one of the things we talked about was trying to build more diverse teams as a stepping stone to building a more diverse tech industry.
+
+Marco Rogers was at the conference (to my delight, as I've only known him through Twitter) and he framed the "I don't know" moment in a way I'd never heard before. He made me realize that an insidious thing that people from underrepresented groups have to face is the internalized idea that they aren't "good enough," constantly. I'd never thought of this in this way, but growing up in the 80s, during the era of computer "whiz kids" it was so incredibly easy for me to identify with people like Bill Gates and Nolan Bushnell and Steve Wozniak and Bill Atkinson in no small part because they looked like slightly modified, older versions of me. Beyond that, I was told explicitly and implicitly -- by living in a rich suburban town, and having family members who were nerdy and smart and academic, and watching movies like Real Genius that were full of nerds who looked like older versions of me -- that it was safe to be a little rebellious and a little weird and that even not knowing things or being selectively lazy was a form of social cachet.
+
+Don't get me wrong -- the "I don't know" moment is terrifying for _everyone_. I did a mock interview last week as part of an interview training class, and I knew the question, and I'm friends with the guy who was mock-interviewing me, and I even had a good sense of how I could guide the the interview down a path where the stuff-I-didn't-know was relatively unthreatening, and I was still moderately terrified beforehand and a little shaky and had a tiny flop-sweat going on.
+
+But even in an interview situation with a job on the line, I still get that privilege of having internalized "people who look like me are allowed to fail, so failing-to-know-the-answer isn't the same as failing-the-interview." I don't have to struggle against growing up with people telling me I'm the "other" and I don't have to struggle against whatever unconscious biases the interviewer has; indeed, the interviewer's unconscious biases almost certainly unfairly help me. So the worst "I don't know" moment I've ever experienced is qualitatively different for me than it is for somebody who's grown up without the giant scaffolding that I get propped up by.
+
+So, what can we as interviewers do to ameliorate this?
+
+The best thing I can think of -- and I would love to hear other people's strategies -- is being very explicit with the candidate that the whole point of the interview is to get to an "I don't know" moment. Emphasize that -- in this room, in this tiny little artificial thing you're constructing with the candidate -- saying "I don't know, but I think ..." is _success_, not failure. Say that repeatedly, and also admit when _you_ don't know something.
+
+Also, and just as importantly, check yourself and check your attitudes constantly. What are you assuming about the candidate that you haven't seen?
+
