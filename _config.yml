@@ -110,3 +110,5 @@ JB :
   
 gems:
   - jekyll-feed
+
+markdown: kramdown

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Interviewing 101
 cover: trees.jpg
 ---
