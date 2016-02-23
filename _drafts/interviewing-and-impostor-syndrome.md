@@ -4,7 +4,7 @@ title: I Don't Know
 cover: trees.jpg
 ---
 
-As I've [mentioned before](/2015/12/16/lowering-the-bar/), my co-worker Tim & I teach an interview training class at Etsy. The 2nd most important thing we teach[^1] is the concept of "mapping the potato" -- discovering the boundary between what a candidate knows and doesn't know, along many many different vectors.
+As I've [mentioned before](/2015/12/16/lowering-the-bar/), my co-worker Tim & I teach an interview training class at Etsy. The 2nd most important thing we teach[^footnote] is the concept of "mapping the potato" -- discovering the boundary between what a candidate knows and doesn't know, along many many different vectors.
 
 The idea of mapping a candidate's knowledge is completely dependent upon reaching a moment when the candidate says -- or implies -- "I don't know." Getting to that state is the only way you can discover those boundaries. 
 
@@ -12,7 +12,7 @@ I've always thought about this moment as the moment when the search space you're
 
 But: I recently learned that my thoughts on the above lacked some depth.
 
-This past weekend, I attended a weird conference[^2] with about 40 friends and friends-of-friends. We talked about all sorts of stuff, including a session on building diverse teams. Naturally, part of this conversation was about hiring (though let me take this moment to emphasize that hiring is a small part of building diverse teams).
+This past weekend, I attended a weird conference with about 40 friends and friends-of-friends. We talked about all sorts of stuff, including a session on building diverse teams. Naturally, part of this conversation was about hiring (though let me take this moment to emphasize that hiring is a small part of building diverse teams).
 
 During this session, [Marco Rogers](https://twitter.com/polotek) framed the "I don't know" moment in a way I'd never thought of before. 
 
@@ -34,5 +34,4 @@ The best thing I can think of -- and I, again, must give credit to Tim for this 
 
 Maybe the above paragraph is best summarized as "_I_ don't know." I can try to constantly remind myself of that -- not in a constrained, let me figure out this computer-program kind of way -- but in a way that admits my own blind spots and admits to things that make _me_ uncomfortable. I'm incredibly thankful I was able to sit in a room with people who are thoughtful and caring enough to clue me in to things to which I would otherwise be blind.
 
-[^1]: The first -- what Tim calls the "Prime Directive" -- is "respect the candidate."
-[^2]: I refuse to call it an "unconference" though I will admit that is probably the best word for it
+[^footnote]: The first -- what Tim calls the "Prime Directive" -- is "respect the candidate."
