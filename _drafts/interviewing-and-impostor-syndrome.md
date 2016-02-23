@@ -4,13 +4,13 @@ title: I Don't Know
 cover: trees.jpg
 ---
 
-As I've [mentioned before](/2015/12/16/lowering-the-bar/), my co-worker Tim & I teach an interview training class at Etsy. One of the key things we teach is the idea of "mapping the potato" -- discovering the boundary between what a candidate and knows and doesn't know, along many many different vectors.
+As I've [mentioned before](/2015/12/16/lowering-the-bar/), my co-worker Tim & I teach an interview training class at Etsy. One of the key things we teach is the idea of "mapping the potato" -- discovering the boundary between what a candidate knows and doesn't know, along many many different vectors.
 
-The idea of mapping a candidate's knowledge literally doesn't work with reaching a moment when the candidate says -- or implies -- "I don't know." Getting to that state is the only way you can discover those boundaries. 
+The idea of mapping a candidate's knowledge is completely depended upon reaching a moment when the candidate says -- or implies -- "I don't know." Getting to that state is the only way you can discover those boundaries. 
 
 I've always thought about this moment as the moment when the "search space" you're traveling along explodes in multiple different dimensions. What you're exploring changes from something like "show me your knowledge about how TCP works" to what can be summarized as "show me how you act when you don't know the answer to something." The latter is comprised of things like asking questions, applying knowledge about how computers work, communicating abstract and maybe not-fully-formed ideas, bouncing hypotheses around, dealing with ambiguity, probing for knowledge, and on and on -- all of these are objectively important skills and giving a candidate a space to show them is vital to hiring well. The rate at which you, as an interviewer, are gathering data increases geometrically at the "I don't know" moment.
 
-But: I recently learned that my thoughts on the above were more brittle than I thought they were.
+But: I recently learned that my thoughts on the above lacked some depth.
 
 This past weekend, I attended a weird conference[^1] with about 40 friends and friends-of-friends. We talked about all sorts of stuff, but yesterday we had a session on building diverse teams. Naturally, part of this conversation was about hiring (though let me reiterate that hiring is a small part of building diverse teams).
 
@@ -20,9 +20,13 @@ I hadn't thought in enough depth about my particular priviledge around this issu
 
 Growing up in the 80s, during the era of computer "whiz kids" it was so incredibly easy for me to identify with people like Bill Gates and Nolan Bushnell and Steve Wozniak and Bill Atkinson in no small part because they looked like slightly modified, older versions of me. Beyond that, I was told explicitly and implicitly -- by living in a rich suburban town, and having family members who were nerdy and smart and academic, and watching movies like Real Genius that were full of nerds who looked like older versions of me -- that it was safe to be a little rebellious and a little weird and that even not knowing things or being selectively lazy was a form of social cachet.
 
+Because of that, when I was personally confronted with moments as a candidate where I didn't know the answer to something, it came naturally to me to admit that and start dissecting a problem. Don't get me wrong -- it was fucking terrifying to do this. Indeed, just last week I was the candidate in a mock interview as part of a class, and I knew the question, and I'm friends with the guy who was mock-interviewing me, and I even had a good sense of how I could guide the the interview down a path where the stuff-I-didn't-know was relatively unthreatening, and I was still moderately terrified beforehand and a little shaky and had a tiny flop-sweat going on.
+
+But: in the mock interview, I _knew_ I wouldn't be fired. And in every _real_ interview I've ever done,  
+
 I had never imagined, really, what it might be like to grow up in a situation where your ability to be good at writing computer programs would be doubted because of how you looked or where you lived. I'd never thought how it might feel, when those doubts are constant and implicit, to say "I don't know."
 
-I can't really imagine that, still, but the best I can do is accept that it is a real thing that effects a lot of really smart people; people who look different than me -- people of different races, different genders. This self-doubt that comes from a constant pervasive socieital doubt effects many people who I would probably love to work with in ways I will never be privy to.
+I can't really imagine that, but the best I can do is accept that it is a real thing that effects a lot of really smart people; people who look different than me -- people of different races, different genders. This self-doubt that comes from a constant pervasive socieital doubt effects many people who I would probably love to work with in ways I will never be privy to.
 
 
 
