@@ -23,7 +23,7 @@ Here's how it'll work:
    - show me a picture of your donation receipt, with a date of 2/8 or later. If you didn't donate, tell me how much time you've spent. This will be used to aggregate stats for the project as a whole.
    - we'll set up a time to do a portrait session at my office/ad-hoc studio up in North Boulder. It'll probably take about 30-45 minutes. Weekends are best but if your schedule is tight, we can work something out.
    - I'll give you a fully-edited, print-ready file, and recommendations for places to get a high-quality print.
-
+	- *if you're in the first 15 people to get in touch, I'll give you a 8x10 black and white print of your portrait, printed on Ilford Galerie RC paper by Digital Silver Imaging (http://www.digitalsilverimaging.com/).*
 Here's some of my better photography, with examples of human & dog portraits: http://moishe-lettvin.format.com/
 
 As a starting point, here's a kind-of random list of some charities I recommend:
