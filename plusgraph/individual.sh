@@ -1,1 +1,1 @@
-python plusedges.py -f irccat_nohup.log -g "#etsynomics" |sort |uniq |python rank.py >plusgraph.js
+python plusedges.py -f irccat_nohup.log |sort |uniq |python rank.py -n 100 >plusgraph.js

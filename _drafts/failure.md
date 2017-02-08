@@ -8,22 +8,14 @@ cover: trees.jpg
 
 I want to take about failure.
 
-I hate even typing that sentence. Stories of failure, particularly in the tech industry, tend toward the saccarine and banal. We talk about "failing forward," and "embracing failure" but truly failing at something *sucks*. 
+More specifically, I want to talk about succeeding at failure and failing at failure.
 
-There's a word for failing then succeeding at the very thing you failed at in the first place: success. 
+Until about a week and a half ago, I worked at Etsy. Working there was amazing, and I feel confident saying I learned more in three years there about what it means to be an engineer and what it means to be a human being in a complex organization than I did in my previous twenty years in the software industry.
 
-Failure is not invariably a thing that drives us towards something positive. I worry that by making every story about failure a veiled story of success, we rob failure of its power and we mask the things that make us human.
+A cornerstone of Etsy's culture is a philosophy of "blamelessness". This is the idea that, when things go wrong, it's not due to malice or incompetence on any individual's part, but because of the interactions of many pieces of a very complex system. When things do go wrong, it's an opportunity to look at the system as a whole and see how to improve _the system_, not the individuals who acted rationally within that system.
 
-But I'm still writing about failure. I want to talk about 3 kinds of failure I've been part of over the past 3 years. They were all painful, in different ways, and 2 of them were just steps toward success.
+At the heart of this is the generous and humane idea that people act rationally and that they do things that appear correct at the time. This mindset leads to many, many great outcomes; the best, for me, was the immediate and powerful sense of support I felt from my community of co-workers when things went wrong.
 
-Maybe I can start by telling a couple of stories.
+When I'd been at Etsy for a couple of months, I started work on a project which tells sellers when their listings start getting unexpectedly high traffic. Before Etsy, I'd been at Google for many years, and because of that I approached this problem in a very Google way. 
 
-Sometimes an engineer at Etsy will crash, or nearly crash, the web site. This is _scary as hell_ but because of the nature of Etsy's infrastructure, it's almost always possible to get things back on track very easily. Etsy's designed a system that is incredibly resilient. However, before you live through this experience, it's hard to actually _believe_ that everything's gonna be okay.
-
-When I'd been at Etsy a little while, I needed to run some code that modified a huge number of listings. In engineer-speak, this is called a backfill: you write some code that reads a bunch of entries, makes a change to each entry, and writes the new entry back to the database. Code that does this needs to be designed in such a way that it doesn't run too fast -- writing an entry into a database can, depending on the kind of data you're writing, cause other things to happen, and you need to make sure that the rate of your changes don't overwhelm the system.
-
-So I wrote this backfill code, did what I thought was a good job thinking through the effects of changing the data.
-
-====
-
-(true failure requires a correction on a different plane; )
+About 8 weeks later, I'd gone quite a ways down the path of implementing this project in a very Google way, and was close to actually shipping it. Then our CTO found out about how I'd implemented it, and asked to meet with my manager & I about it.
