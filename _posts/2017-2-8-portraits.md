@@ -25,13 +25,17 @@ As a starting point, here's a kind-of random list of some charities I recommend:
 
 [ACLU](https://www.aclu.org/)
 
-[CODE 2040](http://www.code2040.org/)
-
-[The Last Mile](https://thelastmile.org/)
+[CODE 2040](https://www.code2040.org/)
 
 [International Rescue Committee](https://www.rescue.org/)
 
 [International Refugee Assistance Project](https://refugeerights.org/)
+
+[The Last Mile](https://thelastmile.org/)
+
+[Natural Resource Defense Council](https://nrdc.org)
+
+[Planned Parenthood](https://www.plannedparenthood.org/)
 
 [Southern Poverty Law Center](https://www.splcenter.org/)
 
