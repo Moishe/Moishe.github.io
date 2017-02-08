@@ -12,8 +12,9 @@ So here's a first step: I love taking photographs, and I want to get better at t
 Here's how it'll work:
 
    - donate to a non-profit that's helping refugees, or public education, or civil rights, or any of the other many, many causes that are going to need help over the coming years. (some suggestions are below)
-   - there's no minimum donation amount. I trust you to donate what you think is appropriate. For context, "headshot" portraits typically cost between $100-$500
-   - show me a picture of your donation receipt, with a date of 2/8 or later
+   - *OR* donate your time! If you've called your senators, or if you've attended marches, or done anything else that feels substantial, that works too! The point is being part of resisting; however you do that, you qualify.
+   - there's no minimum donation amount, or time amount. I trust you to do what you can.
+   - show me a picture of your donation receipt, with a date of 2/8 or later. If you didn't donate, tell me how much time you've spent. This will be used to aggregate stats for the project as a whole.
    - we'll set up a time to do a portrait session at my office/ad-hoc studio up in North Boulder. It'll probably take about 30-45 minutes. Weekends are best but if your schedule is tight, we can work something out.
    - I'll give you a fully-edited, print-ready file, and recommendations for places to get a high-quality print.
 
