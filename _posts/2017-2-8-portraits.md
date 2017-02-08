@@ -24,10 +24,15 @@ Here's some of my better photography, with examples of human & dog portraits: ht
 As a starting point, here's a kind-of random list of some charities I recommend:
 
 [ACLU](https://www.aclu.org/)
+
 [CODE 2040](http://www.code2040.org/)
+
 [The Last Mile](https://thelastmile.org/)
+
 [International Rescue Committee](https://www.rescue.org/)
+
 [International Refugee Assistance Project](https://refugeerights.org/)
+
 [Southern Poverty Law Center](https://www.splcenter.org/)
 
 Feel free to share this widely; I'm happy to make portraits of strangers (or their pets) too!
