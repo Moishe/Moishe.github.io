@@ -4,7 +4,7 @@ title: Portraits for Donations
 cover: portrait.jpg
 ---
 
-*Short version:* If you are fighting against Trump and his policies, and want to be part of an art project, contact me at moishel@gmail.com
+**Short version:** If you are fighting against Trump and his policies, and want to be part of an art project, contact me at moishel@gmail.com
 
 I've been feeling a little powerless lately. Maybe you feel the same.
 
@@ -24,7 +24,7 @@ Here's some of my better photography, with examples of human & dog portraits: ht
 
 I'm in Boulder, Colorado, and my office/ad-hoc studio is up in North Boulder (right by the Holiday sign). For now, I'll be restricting this project to people who can get to North Boulder. Depending on interest I might expand it to SF and NYC in the future.
 
-*If you're interested in being part of this, email me!* My email is moishel@gmail.com, or you can reach me on Twitter ([@moishel](https://twitter.com/moishel) -- DMs are open) or [Facebook](https://www.facebook.com/moishe).
+**If you're interested in being part of this, get in touch!** My email is moishel@gmail.com, or you can reach me on Twitter ([@moishel](https://twitter.com/moishel) -- DMs are open) or [Facebook](https://www.facebook.com/moishe). My schedule is very flexible -- I work from the same place I'll be taking portraits -- and I can almost certainly work around your schedule.
 
 If you're looking for things to do, here's a (very very far from complete) list of charities you could donate to.
 
