@@ -18,9 +18,9 @@ If you're resisting in *any* way, by writing letters or attending protests or go
 
 Ultimately, we will bend the moral arc back towards justice through the contributions -- big _and_ small -- of thousands and thousands and thousands of people. We're all in this together. My goal is to illuminate a small slice of the real people who are helping, and the ways they help, even -- maybe especially! -- if those ways are small.
 
-One last note: to bootstrap this project, if you're one of the first 15 people to sign up, I'll give you a 8x10 black and white print of your portrait, printed on Ilford Galerie RC paper by Digital Silver Imaging (http://www.digitalsilverimaging.com/). If it feels weird to you to just get a picture of yourself, you can chose another print from my portfolio, or I will happily take a portrait of your pets, or your kids, or whoever!
+One last note: to bootstrap this project, if you're one of the first 15 people to sign up, I'll give you a 8x10 black and white print of your portrait, printed on Ilford Galerie RC paper by [Digital Silver Imaging](http://www.digitalsilverimaging.com/). If it feels weird to you to just get a picture of yourself, you can chose another print from my portfolio, or I will happily take a portrait of your pets, or your kids, or whoever!
 
-Here's some of my better photography, with examples of human & dog portraits: http://moishe-lettvin.format.com/
+Here's some of my better photography, with examples of human & dog portraits: [http://moishe-lettvin.format.com/](http://moishe-lettvin.format.com/)
 
 I'm in Boulder, Colorado, and my office/ad-hoc studio is up in North Boulder (right by the Holiday sign). For now, I'll be restricting this project to people who can get to North Boulder. Depending on interest I might expand it to SF and NYC in the future.
 
