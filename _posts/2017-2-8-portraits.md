@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portraits for Donations
+title: Portraits of the Resistance
 cover: portrait.jpg
 ---
 
