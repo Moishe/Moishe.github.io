@@ -12,6 +12,7 @@
 
 	  	function generateName(){
 	  		var name = randomElementFromArray(first_names) + randomElementFromArray(last_names);
+	  		name = name.charAt(0).toUpperCase() + name.slice(1);
 
 	  		document.getElementById('name').innerHTML = name;
 	  	}
