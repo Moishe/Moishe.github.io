@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Remote Interviewing
+permalink: /2020/03/16/Remote-Interviewing/
 cover: trees.jpg
 ---
 
@@ -28,7 +29,7 @@ Before the interview starts, use Zoom's audio and video check to double-check th
 
 Acknowledge the strangeness and awkwardness. As an interviewer, part of your job is to make the candidate comfortable, and honesty goes a long way. Interviewing over video chat isn't a thing we're used to -- just say that! Acknowledge that you're also getting used to it, and that you'll be patient with the weirdness of what's happening, and you'll get through it together. Let the candidate know that it's okay if they tell you they can't hear you, or if your video is lagging (you may not know), and tell them you'll do the same for you. And do that! Your video quality almost certainly will become bad, you may miss something a candidate says, etc. Your job as an interviewer is not to let this rattle you and *definitely* not to let it reflect on your assessment of the candidate. Make that clear and everything will be much easier.
 
-Once you’ve acknowledged the awkwardness and weirdness, be aware of your own actions (and if you’re part of a pair interview team, also be aware of your co-interviewer’s actions). For instance: I take notes by typing during interviews, and I’d (naïvely) assumed that my typing was inaudible to the candidate because I use a mic attached to my headphones. I had literally no way of knowing this was true or not, though, and during one of my first pairing interviews my co-interviewer gently let me know they could hear my keyboard. This was great! I literally never would have known, and because of this feedback I now know to mute when I’m not talking. 
+Once you’ve acknowledged the awkwardness and weirdness, be aware of your own actions (and if you’re part of a pair interview team, also be aware of your co-interviewer’s actions). For instance: I take notes by typing during interviews, and I’d (naïvely) assumed that my typing was inaudible to the candidate because I use a mic attached to my headphones. I had literally no way of knowing this was true or not, though, and during one of my first pairing interviews my co-interviewer gently let me know they could hear my keyboard. This was great! I literally never would have known, and because of this feedback I now know to mute when I’m not talking.
 
 If the other participants’ video freezes, you may be tempted to make exaggerated movements to see if your video is frozen. If it’s not, the other people will see this, and I guarantee it’ll be distracting for the candidate. Rely on technology to diagnose your connection: I use [PeakHour](https://peakhourapp.com/) to keep an eye on my ping times and I also always have Zoom’s statistics window open (Settings -> Statistics -> Video) to watch frame rate and quality, so I know if my own video is lagging.
 
@@ -44,13 +45,13 @@ If you give candidates homework and then discuss it onsite, you can share your s
 
 In some ways, discussing code over video is a little easier than non-technical interviews over video. The code can anchor you, and you can communicate in code or text in addition to voice and video.
 
-Concentrating on code could even let you forego video chat altogether. I have not tried audio-only coding interviews, but I’ve heard from others that they work well, and I can imagine that being the case. I would recommend giving candidates flexibility in this, and letting them give input on whether they want to use video or audio-only. 
+Concentrating on code could even let you forego video chat altogether. I have not tried audio-only coding interviews, but I’ve heard from others that they work well, and I can imagine that being the case. I would recommend giving candidates flexibility in this, and letting them give input on whether they want to use video or audio-only.
 
 ## Design Interviews
 
 I love design interviews. They're fun and can be profoundly informative because they're so open-ended, and great ones are collaborative and dynamic. Having a physical whiteboard makes these types of interviews tactile and interactive; interviewers and the candidate get to point at things, and erase things, and use colors and shapes and sizes to convey information. I haven't done one of these interviews in person in years and I miss it.
 
-There are a few ways to solve the lack of a physical whiteboard in a video interview. The first is to just have a discussion, with no drawing. This can work well for some candidates and some questions, but it requires both the candidate and the interviewer to take great notes or be very good at holding a lot of info in their heads. 
+There are a few ways to solve the lack of a physical whiteboard in a video interview. The first is to just have a discussion, with no drawing. This can work well for some candidates and some questions, but it requires both the candidate and the interviewer to take great notes or be very good at holding a lot of info in their heads.
 
 Second, the candidate can just draw on a piece of paper and hold it up to the camera. This is nice because it's low tech and you don't have to worry about another piece of software that could potentially not work. Some candidates think better with a real notebook and pen/pencil. It's more reasonable to expect a candidate to have a notepad and pen/pencil than it is to expect them to have, for instance, an iPad. The downside is that this removes interactivity; the interviewer can see the diagram the candidate's drawing but can't contribute to it, or easily point to it. If you go this route, be sure the candidate knows they'll need a notepad and pen/pencil. Some people don't have notepads next to their computers all the time, and scrambling for one in the middle of an interview isn't fun.
 
