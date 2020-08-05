@@ -1,0 +1,119 @@
+---
+title: ''
+---
+
+<!doctype html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<link rel="stylesheet" href="site.css">
+
+	<!-- Page Info -->
+	<link rel="shortcut icon" href="/images/favicon.png">
+	<title>Obliquely Strategic Cooking</title>
+	<meta name="description" content="Creative tools for delicious food.">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Obliquely Strategic Cooking">
+	<meta name="twitter:description" content="Creative tools for delicious food.">
+	<meta name="twitter:image:src" content=""> 
+
+	<!-- Facebook OpenGraph -->
+	<meta property="og:title" content="Obliquely Strategic Cooking" />
+	<meta property="og:description" content="Creative tools for delicious food." />
+	<meta property="og:image" content="" />
+
+	<script type='text/javascript' src='jquery-3.5.1.min.js'></script>
+	<script type='text/javascript' src='meals.js'></script>
+	<script type='text/javascript' src='dates.js'></script>
+	<script type='text/javascript' src='meal_scenarios.js'></script>
+	<script type='text/javascript' src='strategies.js'></script>
+
+	<style>
+		.content {
+			width: 100%;
+		}
+
+		.title {
+			width: 100%;
+		}
+
+		.wrapper {
+			display: block;
+		}
+
+		.main-item {
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+
+		.centered {
+			text-align: center;
+		}
+
+		.date {
+			font-style: italic;
+			font-weight: lighter;
+		}
+
+		.meal {
+			margin-top: 30px;
+		}
+	</style></head>
+<body>
+	<div class='title wrapper'>
+		<div class='main-item centered'>
+			<a href='' id='gm'>Great Meals of History</a>
+		</div>
+		<div class='main-item centered'>
+			<a href='' id='os'>Oblique Strategies</a>
+		</div>
+	</div>
+	<div class='content-top wrapper'>
+		<div id='strategy' style='display:none' class='content centered'>
+			Strategy
+		</div>
+		<div id='greatmeals' style='display:none' class='content centered'>
+			Great Meals
+		</div>
+	</div>
+	<script type='text/javascript'>
+		randomElement = function(arr) {
+			return arr[Math.floor(Math.random() * arr.length)];
+		}
+		$(function() {
+			$('#os').click(function(e){
+				e.preventDefault();
+
+				$('#greatmeals').hide("fast");
+				$('#strategy').show("fast");
+
+				$('#strategy').html(function() {
+					var idx = Math.floor(Math.random() * strategies.length);
+					return `<div class='consideration'>Have you considered</div>` +
+						`<div class='strategy'>${strategies[idx]}</div>`;
+				})
+			});
+			$('#gm').click(function(e){
+				e.preventDefault();
+
+				$('#strategy').hide("fast");
+				$('#greatmeals').show("fast");
+
+				$('#greatmeals').html(function() {
+					var idx = Math.floor(Math.random() * meals.length);
+					return `<div class='date'>${dates[idx]}</div>` +
+						`<div class='scenario'>${meal_scenarios[idx]}</div>` +
+						`<div class='meal'>${meals[idx]}</div>`;
+				})
+			})
+		});
+	</script>
+</body>
+
+</html>
