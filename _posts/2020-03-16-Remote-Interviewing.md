@@ -3,6 +3,7 @@ layout: post
 title: Remote Interviewing
 permalink: /2020/03/16/Remote-Interviewing/
 cover: trees.jpg
+description: Remote Interviewing (in a pandemic)
 ---
 
 _First, let me get this out of the way: I'm having trouble writing about anything practical or work-related with everything happening with COVID-19. I'm worried about my family, I'm worried about my friends, I'm worried about neighbors and anyone vulnerable. But this seems like a small, topical thing I can contribute to that might make a narrow sliver of people's lives a tiny bit easier._

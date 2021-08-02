@@ -2,7 +2,7 @@
 layout: post
 title: If you see something
 cover: mountain.jpg
-
+description: If you see something
 ---
 
 Many years ago, when I was new to interviewing, I did a lunch interview at Google in Kirkland with a guy I'll call Andrew.

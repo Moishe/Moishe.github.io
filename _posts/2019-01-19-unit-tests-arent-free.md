@@ -2,6 +2,7 @@
 layout: post
 title: Unit Tests Aren't Free
 cover: trees.jpg
+description: Unit Tests Aren't Free
 ---
 
 When I was thinking about leaving Google, and interviewing at lots of companies, I tried to ask at least one interviewer per company about unit tests. Google's culture was very pro-unit test - it was basically impossible to get a PR approved without unit tests, there was a ton of internal documentation and education about how to write unit tests (even in the bathroom. Seriously), etc. etc. - and I thought that I could probably learn some important information about a company's engineering culture by asking this question. During one of my interviews, the interviewer said, "well, we really don't have that many unit tests. We have really good monitoring and generally the code coverage of people using our product is better than the code coverage we'd get by adding unit tests, so we've built a system where we can see things go wrong very quickly and fix them very quickly."

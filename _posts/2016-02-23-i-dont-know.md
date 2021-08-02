@@ -2,6 +2,7 @@
 layout: post
 title: I Don't Know
 cover: trees.jpg
+description: I Don't Know
 ---
 
 As I've [mentioned before](/2015/12/16/lowering-the-bar/), my co-worker Tim & I teach an interview training class at Etsy. The 2nd most important thing we teach (after "respect the candidate") is the concept of "mapping the potato" -- discovering the boundary between what a candidate knows and doesn't know, along many many different vectors.

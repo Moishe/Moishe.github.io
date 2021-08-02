@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lowering the bar
+description: Lowering the bar
 cover: clouds.jpg
 
 ---
