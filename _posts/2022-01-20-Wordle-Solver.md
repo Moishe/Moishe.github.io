@@ -15,7 +15,7 @@ I started with [Peter Norvig's corpus of the 1/3rd million most frequent words](
 
 I then wrote some Python code to implement the rules of the game, and then play the game, and score words that led to wins in two ways: ones that matched the most letters, and ones that restricted the search space the most.
 
-When I ran this it was, put it mildly, discouraging. My script ran okay if I restricted solution words to 200 or so, and guess words to about 300. But it became untenable with larger data sets, slowing down, geometrically, to the point that it would've taken weeks to run. With the smaller corpus it made some interesting predictions. For instance, on one of the runs, it thought that "chuck" might be the best starting guess. That's a terrible starting guess.
+When I ran this it was, to put it mildly, discouraging. My script ran okay if I restricted solution words to 200 or so, and guess words to about 300. But it became untenable with larger data sets, slowing down, geometrically, to the point that it would've taken weeks to run. With the smaller corpus it made some interesting predictions. For instance, on one of the runs, it thought that "chuck" might be the best starting guess. That's a terrible starting guess.
 
 I had had fun implementing this but thought it would be useful to walk away from it for a while, because something seemed off. I kept confusing myself about what the simulation was _doing_, which felt like a warning sign. So I put the simulation aside until Sunday morning.
 
@@ -43,11 +43,11 @@ for each solution:
       continue repeating
 ```
 
-I coded this up and ran it and the results were, to put it mildly, disappointing. I implemented a random solver (which used no algorithm at all other than 'pick an available word at random') and, to my dismay, it did *better* than my so-called "optimized" algorithm. Woe is me!
+I coded this up and ran it and the results were disappointing. I implemented a random solver (which used no algorithm at all other than 'pick an available word at random') and, to my dismay, it did *better* than my so-called "optimized" algorithm. Woe is me!
 
 Coincidentally, around this time, a friend posted a link to a [Donald Knuth paper on Mastermind](http://www.cs.uni.edu/~wallingf/teaching/cs3530/resources/knuth-mastermind.pdf), which is a problem that is shaped a lot like Wordle. While reading it, I realized I'd made a really silly mistake: while I was filtering out words based on the matches (letters at locations, letters that existed), I wasn't filtering out words based on the letters that didn't match. This is one of the most powerful filters in the game! Maybe implementing that filter would help my word-ranking.
 
-Also around this time I got my hands on the "real" corpus of words used by Wordle. I rot-13 encoded them to try to keep them hidden from myself (and, I guess, anyone who looks at my repo on github) and used those words for my guesses and solutions.
+Also around this time I got my hands on the "real" corpus of words used by Wordle. I asked my source to rot-13 encode them to try to keep them hidden from myself (and, I guess, anyone who looks at my repo on github) and used those words for my guesses and solutions.
 
 So, I added the above logic and re-ran my code, with the official corpus. This time, it outperformed my random guessing (thank god!) but not, really, by a whole lot.
 
