@@ -2,7 +2,7 @@
 layout: post
 title: The Myth of the Potato
 description: The Myth of the Potato
-permalink: /2020/03/16/Myth-of-the-Potato/
+permalink: /2021/02/01/Myth-of-the-Potato/
 cover: trees.jpg
 ---
 
