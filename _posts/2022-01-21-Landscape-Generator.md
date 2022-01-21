@@ -103,7 +103,11 @@ These calls to fracturing the lines and creating the shapes are wrapped in a loo
     ]
 ```
 
-and that's really it! I like the results quite a lot:
+and that's really it!
+
+Here's the [source code](https://editor.p5js.org/moishe/sketches/AhQ_iL6I0).
+
+I like the results quite a lot:
 
 ![landscape](/images/landscape.png)
 
