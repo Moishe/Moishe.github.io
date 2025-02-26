@@ -7,13 +7,13 @@ author: Moishe Lettvin
 I recently set up Prefect to use Modal as its dynamic worker pool, with a custom Docker image registered on ECR. There’s great documentation out there about setting up Prefect and Modal with a git repo, which covers many cases. In my case, I needed some custom installation and setup for the flow I’d be executing, which necessitated the custom Docker image. My organization already hosts Docker images on ECR, so using it for this workflow made sense.
 
 I’ll going to walk through the specific steps with a toy application. I will assume you’ve already got a Modal account, a Prefect account, and an AWS account, and have set up all these services’ CLI tools and secrets on your local machine.
-## Create an AWS Secret in Modal
+### Create an AWS Secret in Modal
 This page [Private registries](https://modal.com/docs/guide/private-registries) has details. In short, create a Secret in Modal that contains `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY` and `AWS_REGION`. You might also need `AWS_DEFAULT_REGION`. You’ll pass the name of this Secret as the `aws_secret` parameter in the deployment section of the `prefect.yaml` file below.
-## Create a Modal Work Pool and Credential Block in Prefect
+### Create a Modal Work Pool and Credential Block in Prefect
 Follow the instructions on this page https://docs.prefect.io/v3/deploy/infrastructure-examples/serverless. This will walk you through creating the work pool and setting up the Modal credentials in Prefect to allow pushing.
 
 Note that you should *not* specify an image or aws_secret in the work pool definition. We’ll specify that in the deployment, instead.
-## Write a Simple Flow
+### Write a Simple Flow
 Create a very simple `hello-world.py` flow, eg.
 ```
 from prefect import flow
@@ -23,7 +23,7 @@ def my_flow():
     print("Hello, Modal!")
 ```
 
-## Create a Dockerfile
+### Create a Dockerfile
 Create a very simple Dockerfile that copies the directory containing your `hello-world.py`file into it and sets the working directory:
 ```
 FROM prefecthq/prefect:3-latest
@@ -31,7 +31,7 @@ FROM prefecthq/prefect:3-latest
 WORKDIR /opt/prefect
 COPY . .
 ```
-## Create a prefect.yaml file
+### Create a prefect.yaml file
 This prefect.yaml file will create a Docker image based on the Dockerfile in your directory, with the flow in your hello-world.py as the entry point. 
 
 Things to note:
@@ -83,7 +83,7 @@ deployments:
         tag: '{{ build_image.image_name }}:{{ build_image.tag }}'
         aws_secret: aws-secret
 ```
-## Deploy and Run
+### Deploy and Run
 Once these steps are complete and the above files created, you can do this:
 ```
 prefect deploy
@@ -94,7 +94,8 @@ So, run it:
 prefect deployment run 'my-flow/modal-with-docker'
 ```
 You can watch Prefect’s view of this by following the URL that Prefect gave you on the deploy step. You can watch Modal’s view of it on Modal’s `logs` page. You’ll see “Hello Modal!” displayed in Prefect’s view of the Run.
-## Some Things to Look Out For
+
+### Some Things to Look Out For
 Make sure you’re authenticated to AWS, Modal and Prefect with your CLI tools.
 
 Be sure to update the tag in your Docker image every time you deploy (I recommend automating this)
