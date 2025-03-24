@@ -44,7 +44,6 @@ Things to note:
 name: hello-world
 prefect-version: 3.2.2
 
-# build section allows you to manage and build docker images
 build:
 - prefect_docker.deployments.steps.build_docker_image:
     id: build_image
@@ -62,12 +61,10 @@ push:
     image_name: '{{ build_image.image_name }}'
     tag: '{{ build_image.tag }}'
 
-# pull section allows you to provide instructions for cloning this project in remote locations
 pull:
   - prefect.deployments.steps.set_working_directory:
       directory: /opt/prefect/hello-world
 
-# the deployments section allows you to provide configuration for deploying flows
 deployments:
 - name: modal-with-docker
   version: null
