@@ -32,13 +32,14 @@ WORKDIR /opt/prefect
 COPY . .
 ```
 ### Create a prefect.yaml file
-This prefect.yaml file will create a Docker image based on the Dockerfile in your directory, with the flow in your hello-world.py as the entry point. 
+This prefect.yaml file will create a Docker image based on the Dockerfile in your directory, with the flow in your hello-world.py as the entry point.
 
 Things to note:
 * Specify your aws id, aws region and ECR repository name in the `image_name`field in the `prefect_docker.deployments.steps.build_docker_image` section
 * The `tag` used for your Docker image (specified in `build.prefect_docker.deployments.steps.build_docker_image`) must change on every deploy. This is because Modal caches images, and will not pick up a new image unless the `tag` or `image_name` has changed.
 * Modal will fail if your images is built with `arm64` architecture (which happens by default if you’re building from an ARM Mac), so you need to specify `linux/x86_64` as your architecture
 * The `job_variables.image` section should contain the full name (image name and tag) specified in the build section, as well as the Modal secret for AWS you created above. In this example, I called that secret `aws-secret` in Modal’s secret manager.
+
 ```
 name: hello-world
 prefect-version: 3.2.2
@@ -83,16 +84,21 @@ deployments:
         tag: '{{ build_image.image_name }}:{{ build_image.tag }}'
         aws_secret: aws-secret
 ```
+
 ### Deploy and Run
 Once these steps are complete and the above files created, you can do this:
+
 ```
 prefect deploy
 ```
+
 Prefect will ask you if you’d like to use an existing deployment configuration. Select `modal-with-docker` (it should be the only configuration available unless you’ve added others to the `prefect.yaml` file). Prefect will build your docker image, push it to ECR, create the deployment, and tell you how to view it in Prefect and run it.
 So, run it:
+
 ```
 prefect deployment run 'my-flow/modal-with-docker'
 ```
+
 You can watch Prefect’s view of this by following the URL that Prefect gave you on the deploy step. You can watch Modal’s view of it on Modal’s `logs` page. You’ll see “Hello Modal!” displayed in Prefect’s view of the Run.
 
 ### Some Things to Look Out For
@@ -101,7 +107,9 @@ Make sure you’re authenticated to AWS, Modal and Prefect with your CLI tools.
 Be sure to update the tag in your Docker image every time you deploy (I recommend automating this)
 
 If Modal fails to fetch your image or execute it, it might give errors like:
+
 ````
 19:45:53.933 | ERROR   | Flow run 'tan-camel' - [Errno 2] No such file or directory: '/opt/prefect/hello-world'
 ````
+
 This can happen if your image can’t be retrieved from ECR. It’s deceptive because it looks like your Docker image is incorrectly formed. To check for this, see if the name of your Docker image appears in the Modal logs — if it doesn’t, there may be an error related to your AWS secrets.
