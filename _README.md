@@ -8,7 +8,30 @@ If you have any questions or feedback about the theme, don't hesitate to reach o
 
 Copy the theme files to your website directory.
 
+### Running locally with Jekyll
+
 To run the theme locally, navigate to the theme directory in your terminal and run `bundle install` to install the theme's dependencies. Then run `jekyll serve` to start the Jekyll server.
+
+### Running with Docker (recommended for M1/M2/M3 Macs)
+
+This repository includes a Dockerfile that allows you to run Jekyll in a container, which works well on ARM-based Macs (M1/M2/M3).
+
+1. Make sure you have Docker installed on your machine
+2. Build the Docker image:
+   ```
+   docker build -t jekyll-blog .
+   ```
+3. Run the container:
+   ```
+   # If port 4000 is available
+   docker run --rm -p 4000:4000 -v $(pwd):/site jekyll-blog
+   
+   # If port 4000 is already in use
+   docker run --rm -p 4001:4000 -v $(pwd):/site jekyll-blog
+   ```
+4. Visit http://localhost:4000 (or http://localhost:4001 if using the alternate port) in your browser to see your site
+
+The Docker setup automatically mounts your current directory as a volume in the container, so any changes you make to your files will be reflected in real-time. Auto-regeneration is enabled by default.
 
 ---
 
@@ -74,7 +97,7 @@ The theme comes with a pre-made contact form that you can use with [Formspree](h
 `form_action` – this is the form endpoint attribute that you get from FormSpree, for example `https://formspree.io/abcdefgh`
 `confirmation_url` – by default the user is shown a default Formspree thank you page. If you have a premium plan, you can use this setting to provide an alternative URL for that page, for example `/thanks` – we have included a basic thank you page with the theme.
 `email_subject` – choose the subject of the email you receive from Formspree.
-`send_button_text` – change the text used on the form submit button.
+`send_button_text` – change the text used on the form submit button.
 
 Hint: you can add the contact form to any page of your site using the include – `{% include contact-form.html %}` – for example if you wanted to have the contact form on your About page.
 
@@ -117,7 +140,7 @@ Below these options, you'll see options for each typographical element used in t
 
 Inside the `/images/` folder you'll find a few images included with the theme.
 
-The images in the `/demo/` subfolder are used in the demo project, post and page – you can delete those if you don't need them.
+The images in the `/demo/` subfolder are used in the demo project, post and page – you can delete those if you don't need them.
 
 `favicon.png` – you should replace this with the favicon image you'd like to use for your website.
 

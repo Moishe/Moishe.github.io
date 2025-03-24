@@ -1,6 +1,6 @@
 ---
 title: Running Custom Docker Images on Modal with Prefect Orchestration
-date: 2024-10-12
+date: 2025-02-26
 author: Moishe Lettvin
 ---
 
